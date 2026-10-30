@@ -147,3 +147,12 @@ footer a{text-decoration:none;border-bottom:1px solid currentColor}
 .drv .q{font-family:"Jost",sans-serif;font-size:19px;color:var(--muted)}
 .drv .p{font-family:"Jost",sans-serif;font-weight:700;font-size:clamp(28px,6vw,48px);line-height:1.3;margin:16px 0}
 @media(prefers-reduced-motion:reduce){svg animate,svg animateTransform{display:none}}
+/* 手機首頁：縮小品牌區，讓第一屏看到主視覺與數字 */
+@media(max-width:899px){
+.hero .id{display:grid;grid-template-columns:auto auto;justify-content:center;align-items:center;column-gap:16px;row-gap:5px;padding:18px 16px 16px;text-align:left}
+.hero .id>svg{grid-row:1/4;width:58px;height:auto;padding-right:16px;border-right:2px solid var(--ink)}
+.hero .id .word{font-size:25px;letter-spacing:.32em;padding-left:0;margin:0}
+.hero .id .zhname{font-size:13.5px;letter-spacing:.42em;padding-left:0}
+.hero .id .tag{font-size:8.5px;letter-spacing:.26em;padding-left:0}
+.hero .id>p{grid-column:1/-1;text-align:center;font-size:13px;margin:8px 0 0!important;letter-spacing:.1em!important}
+}
