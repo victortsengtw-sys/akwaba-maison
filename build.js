@@ -207,4 +207,5 @@ fs.writeFileSync(path.join(OUT, "robots.txt"), `User-agent: *\nAllow: /\nSitemap
 fs.writeFileSync(path.join(OUT, "404.html"), shell({ lang: "hant", p: "404.html", nav: "", title: "找不到這一頁｜AKWABA", desc: "找不到這一頁", body: L => `<div class="wrap narrow"><section class="sec"><h1 class="t">找不到這一頁</h1><p><a class="more" href="${L("")}">回首頁 →</a></p></section></div>` }));
 if (cfg.customDomain) fs.writeFileSync(path.join(OUT, "CNAME"), cfg.customDomain + "\n");
 fs.writeFileSync(path.join(OUT, ".nojekyll"), "");
+if (fs.existsSync("src/static")) for (const f of fs.readdirSync("src/static")) fs.copyFileSync(path.join("src/static", f), path.join(OUT, f));
 console.log(`built ${pages.length} pages${conv ? " ×2 (zh-Hant + zh-Hans)" : " (zh-Hant only)"} → ${OUT}/`);
