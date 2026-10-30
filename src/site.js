@@ -23,3 +23,9 @@
     if(cb.checked&&window.gtag)gtag("event","mission_done",{mission:cb.dataset.m});})});
   document.querySelectorAll("[data-ga]").forEach(function(a){a.addEventListener("click",function(){if(window.gtag)gtag("event",a.dataset.ga)})});
 })();
+
+// 首頁第一屏高度＋往下提示
+(function(){var f=document.querySelector(".first");if(!f)return;
+function fit(){document.documentElement.style.setProperty("--fold-top",(f.getBoundingClientRect().top+window.scrollY)+"px")}
+fit();window.addEventListener("load",fit);var w=innerWidth;window.addEventListener("resize",function(){if(innerWidth!==w){w=innerWidth;fit()}});
+var c=f.querySelector(".cue");if(c){var t=function(){c.classList.toggle("gone",window.scrollY>60)};window.addEventListener("scroll",t,{passive:true});t()}})();

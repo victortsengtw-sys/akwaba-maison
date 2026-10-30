@@ -95,11 +95,11 @@ const SITE_DESC = "用故事讀懂象牙海岸（科特迪瓦）的藝術、建�
 // home
 add("", "", "AKWABA · 非洲品味之家｜象牙海岸藝術、文化與生活指南", SITE_DESC, L => {
   const wk = isoWeek(BUILD_DATE), first = base[0];
-  return `<section class="hero"><div class="id">${A.mono(110, "#141414", "#F7F3EC")}<h1 class="word">AKWABA</h1><div class="zhname">非洲品味之家</div><div class="tag">MAISON DE GOÛT AFRICAIN</div><p style="margin:6px 0 0;letter-spacing:.12em">看懂非洲的品味，從一個跡象開始</p></div>
+  return `<div class="first"><section class="hero"><div class="id">${A.mono(110, "#141414", "#F7F3EC")}<h1 class="word">AKWABA</h1><div class="zhname">非洲品味之家</div><div class="tag">MAISON DE GOÛT AFRICAIN</div><p style="margin:6px 0 0;letter-spacing:.12em">看懂非洲的品味，從一個跡象開始</p><a class="cue" href="#more" aria-label="往下看更多內容"><span>往下探索</span><i aria-hidden="true"></i></a></div>
   <div class="poster">${A.plate("circles", "four", "", "四大文化圈", true)}</div></section>
   <div class="tri" aria-hidden="true"><i style="background:#D69A2D"></i><i style="background:#B4452A"></i><i style="background:#1E2A55"></i></div>
-  <div class="stats"><a href="${L("story/")}"><b style="color:var(--ox)">${base.length}</b><span>章故事</span></a><a href="${L("explore/")}"><b style="color:var(--fo)">${body.length}</b><span>張解讀卡</span></a><a href="${L("routes/")}"><b style="color:var(--la)">${routes.length}</b><span>條路線</span></a></div>
-  <div class="wrap"><div class="two">
+  <div class="stats"><a href="${L("story/")}"><b style="color:var(--ox)">${base.length}</b><span>章故事</span></a><a href="${L("explore/")}"><b style="color:var(--fo)">${body.length}</b><span>張解讀卡</span></a><a href="${L("routes/")}"><b style="color:var(--la)">${routes.length}</b><span>條路線</span></a></div></div>
+  <div class="wrap" id="more"><div class="two">
    <section class="sec"><div class="rule caps"><span>從這裡開始</span><i></i><span>01 / ${pad(base.length)}</span></div>
     <h2 class="t">${esc(first.name)}</h2><div class="sub">${esc(first.nameZh)}</div>
     <p class="lead">${esc(first.what.slice(0, 120))}…</p>
