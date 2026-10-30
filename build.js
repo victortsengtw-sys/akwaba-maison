@@ -28,7 +28,7 @@ const CN = [["象牙海岸", "科特迪瓦"], ["阿必尚", "阿比让"], ["大�
 const toHans = html => { for (const [a, b] of CN) html = html.split(a).join(b); return conv(html); };
 
 /* ---------- page shell ---------- */
-const NAV = [["", "首頁"], ["story/", "故事"], ["explore/", "探索"], ["routes/", "路線"], ["savoir-vivre/", "場合"], ["signes/", "符號"], ["about/", "關於"]];
+const NAV = [["", "首頁"], ["story/", "故事"], ["explore/", "探索"], ["routes/", "路線"], ["savoir-vivre/", "場合"], ["about/", "關於"]];
 function shell({ lang, p, title, desc, body, ld, nav }) {
   const pre = lang === "hans" ? "/zh-hans" : "";
   const url = (l, pp) => `${SITE}${BASE}${l === "hans" ? "/zh-hans" : ""}/${pp}`;
@@ -87,7 +87,9 @@ function isoWeek(d) { const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(),
 
 /* ---------- pages ---------- */
 const pages = [];
-const add = (p, nav, title, desc, body, ld) => pages.push({ p, nav, title, desc, body, ld });
+// 暫時隱藏的頁面：不產生、不進 sitemap。要恢復就從這裡移除，並把它加回 NAV。
+const HIDDEN = ["signes/"];
+const add = (p, nav, title, desc, body, ld) => { if (!HIDDEN.includes(p)) pages.push({ p, nav, title, desc, body, ld }); };
 const SITE_DESC = "用故事讀懂象牙海岸（科特迪瓦）的藝術、建築、工藝、音樂、飲食與社交禮儀：12 章底圖、" + body.length + " 張有來源的解讀卡、" + routes.length + " 條分區路線，附預估花費與中法對照站名。";
 
 // home
