@@ -1,0 +1,26 @@
+name: Open update PR
+on:
+  push:
+    branches: ["update/**"]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Create pull request if none exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BR="${GITHUB_REF_NAME}"
+          if gh pr list --head "$BR" --state open --json number --jq 'length' | grep -q '^0$'; then
+            BODY=$(git log origin/main..HEAD --format='%B' | sed '/^Co-Authored-By/d;/^Claude-Session/d')
+            gh pr create --base main --head "$BR" --title "每週更新：${BR#update/}" --body "$BODY
+
+          ---
+          按 **Merge** 就會上線；不想要就按 **Close**。"
+          fi
