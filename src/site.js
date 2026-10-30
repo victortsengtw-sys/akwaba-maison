@@ -29,3 +29,14 @@
 function fit(){document.documentElement.style.setProperty("--fold-top",(f.getBoundingClientRect().top+window.scrollY)+"px")}
 fit();window.addEventListener("load",fit);var w=innerWidth;window.addEventListener("resize",function(){if(innerWidth!==w){w=innerWidth;fit()}});
 var c=f.querySelector(".cue");if(c){var t=function(){c.classList.toggle("gone",window.scrollY>60)};window.addEventListener("scroll",t,{passive:true});t()}})();
+
+// 電腦版主視覺：依容器比例拉寬四色帶，滿版不留黑邊
+(function(){var s=document.querySelector(".hero-four");if(!s)return;var box=s.parentNode;
+function q(a){return s.querySelectorAll(a)}
+function lay(){var W=338,H=220;if(window.innerWidth>=900){var r=box.getBoundingClientRect();if(r.height>0&&r.width>0){var k=r.width/r.height;if(k>=338/220){W=Math.round(220*k)}else{H=Math.round(338/k)}}}
+var bw=W/4;q("[data-b]").forEach(function(e,i){e.setAttribute("x",i*bw);e.setAttribute("width",bw+.5);e.setAttribute("height",H)});
+q("[data-d]").forEach(function(e,i){e.setAttribute("d","M"+(i+1)*bw+" 0 V"+H)});
+q("[data-l]").forEach(function(e,i){e.setAttribute("transform","translate("+(i*bw+bw/2)+" "+(H-220)+")")});
+s.querySelector("[data-m]").setAttribute("transform","translate("+(W/2-169)+" "+(H-220)/2+")");
+var f=s.querySelector("[data-f]");f.setAttribute("width",W-6);f.setAttribute("height",H-6);s.setAttribute("viewBox","0 0 "+W+" "+H)}
+lay();window.addEventListener("load",lay);window.addEventListener("resize",lay)})();

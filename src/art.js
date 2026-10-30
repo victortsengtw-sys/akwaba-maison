@@ -125,4 +125,16 @@ function mapSvg(r){
   return `<svg class="art" viewBox="0 0 338 220" role="img" aria-label="${esc(T("路線示意地圖"))}"><rect width="338" height="220" fill="#EFE3C8"/>${baseMap(r.map)}<rect x="3" y="3" width="332" height="214" fill="none" stroke="#141414" stroke-width="6"/>${line}${dots}</svg>`;
 }
 
-module.exports={plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};
+
+// 首頁主視覺：四色帶可依容器比例自動拉寬（site.js 會改 viewBox 與各元素位置）
+function heroFour(label){
+  const id="h"+(++_pid);
+  const bands=["akan","dida","sudan","korhogo"].map((n,i)=>`<rect data-b="${i}" x="${i*84.5}" y="0" width="84.5" height="220" fill="url(#${id}${i})"/>`).join("");
+  const divs=[1,2,3].map(i=>`<path data-d="${i}" d="M${i*84.5} 0 V220" stroke="${K}" stroke-width="5"/>`).join("");
+  const labs=[["AKAN",0],["KRU",1],["MANDÉ",2],["GUR",3]].map(([t,i])=>`<g data-l="${i}" transform="translate(${i*84.5+42.25} 0)"><rect x="-34" y="188" width="68" height="20" fill="${K}"/><text x="0" y="202" fill="${IV}">${t}</text></g>`).join("");
+  const ring=`<circle cx="169" cy="110" r="84" fill="none" stroke="${GD}" stroke-width="3" stroke-dasharray="2 9"><animateTransform attributeName="transform" type="rotate" from="0 169 110" to="360 169 110" dur="60s" repeatCount="indefinite"/></circle>`;
+  const med=`<g data-m><circle cx="169" cy="110" r="76" fill="${IV}" stroke="${K}" stroke-width="8"/><circle cx="169" cy="110" r="65" fill="none" stroke="${GD}" stroke-width="3"/>${ring}<g transform="translate(169 110) scale(.6) translate(-169 -110)">${ICON.circles()}</g></g>`;
+  return `<svg class="hero-four" viewBox="0 0 338 220" role="img" aria-label="${esc(label)}"><defs>${["akan","dida","sudan","korhogo"].map((n,i)=>patDef(id+i,n,true)).join("")}</defs>${bands}${divs}${med}<g font-family="Jost,Arial,sans-serif" font-weight="700" font-size="11" letter-spacing="2" text-anchor="middle">${labs}</g><rect data-f x="3" y="3" width="332" height="214" fill="none" stroke="${K}" stroke-width="6"/></svg>`;
+}
+
+module.exports={heroFour,plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};
