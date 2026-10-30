@@ -54,6 +54,8 @@ ${conv ? `<link rel="alternate" hreflang="zh-Hans" href="${url("hans", p)}">` : 
 <meta property="og:locale" content="${lang === "hans" ? "zh_CN" : "zh_TW"}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#F7F3EC">
+<meta name="author" content="Victor Tseng 曾浩瑜">
+<meta name="copyright" content="© Victor Tseng 曾浩瑜. All rights reserved.">
 <link rel="icon" href="${BASE}/assets/favicon.svg" type="image/svg+xml">
 ${gsc}
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -68,7 +70,7 @@ ${ga}
 <div class="tg" role="group" aria-label="語言"><a href="${BASE}/${p}" class="${lang !== "hans" ? "on" : ""}" hreflang="zh-Hant" lang="zh-Hant">繁</a>${conv ? `<a href="${BASE}/zh-hans/${p}" class="${lang === "hans" ? "on" : ""}" hreflang="zh-Hans" lang="zh-Hans">简</a>` : ""}</div></header>
 <nav class="main" aria-label="主選單"><div class="in wrap">${NAV.map(([pp, t]) => `<a href="${L(pp)}" class="${nav === pp ? "on" : ""}">${t}</a>`).join("")}</div></nav>
 <main id="main">${body(L)}</main>
-<footer><div class="wrap">AKWABA · 非洲品味之家 · MAISON DE GOÛT AFRICAIN<br>內容每週更新與查核 · 最後更新 ${BUILD_DATE.toISOString().slice(0, 10)}<br>© ${BUILD_DATE.getFullYear()} Victor Tseng 曾浩瑜 · <a href="${L("about/")}">合作洽詢</a></div></footer>
+<footer><div class="wrap">AKWABA · 非洲品味之家 · MAISON DE GOÛT AFRICAIN<br>內容每週更新與查核 · 最後更新 ${BUILD_DATE.toISOString().slice(0, 10)}<br>© 2026–${BUILD_DATE.getFullYear()} Victor Tseng 曾浩瑜 · 版權所有，未經授權請勿轉載 · <a href="${L("about/")}">合作與授權洽詢</a></div></footer>
 <div class="drv" id="drv" role="dialog" aria-modal="true"><div class="q">Bonjour, je voudrais aller à :</div><div class="p" id="drvP"></div><div class="q" id="drvZ"></div><div class="q" style="margin-top:28px">（點一下關閉）</div></div>
 <script src="${BASE}/assets/site.js?v=${+BUILD_DATE}" defer></script>
 </body></html>`;
