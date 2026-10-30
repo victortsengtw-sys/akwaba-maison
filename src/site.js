@@ -1,0 +1,25 @@
+/* AKWABA site behaviour: weekly route, explore filter, driver card, missions, GA4 events */
+(function(){
+  var reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if(reduce)document.querySelectorAll("svg").forEach(function(s){try{s.pauseAnimations()}catch(e){}});
+  function isoWeek(d){var t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()));var day=t.getUTCDay()||7;t.setUTCDate(t.getUTCDate()+4-day);var y0=new Date(Date.UTC(t.getUTCFullYear(),0,1));return Math.ceil(((t-y0)/864e5+1)/7)}
+  var wk=document.querySelector(".weekly");
+  if(wk){var cards=wk.querySelectorAll(".rcard[data-i]"),w=isoWeek(new Date()),i=w%cards.length;
+    cards.forEach(function(c){c.hidden=+c.dataset.i!==i});var l=wk.querySelector(".wk");if(l)l.textContent="W"+w}
+  var tiles=document.getElementById("tiles");
+  if(tiles){document.querySelectorAll("[data-filter]").forEach(function(b){b.addEventListener("click",function(){
+    var d=b.dataset.filter;document.querySelectorAll("[data-filter]").forEach(function(x){x.classList.toggle("on",x===b)});
+    tiles.querySelectorAll(".tile").forEach(function(t){t.hidden=!(d==="全部"||d==="全部"||t.dataset.d===d||b.textContent===t.dataset.d)});
+    if(window.gtag)gtag("event","filter_domain",{domain:d});})})}
+  var drv=document.getElementById("drv");
+  document.querySelectorAll("[data-fr]").forEach(function(b){b.addEventListener("click",function(){
+    document.getElementById("drvP").textContent=b.dataset.fr;document.getElementById("drvZ").textContent=b.dataset.zh||"";drv.classList.add("on");
+    if(window.gtag)gtag("event","show_driver_card",{place:b.dataset.fr});})});
+  if(drv)drv.addEventListener("click",function(){drv.classList.remove("on")});
+  document.addEventListener("keydown",function(e){if(e.key==="Escape"&&drv)drv.classList.remove("on")});
+  var store={};try{store=JSON.parse(localStorage.getItem("ak-missions")||"{}")}catch(e){}
+  document.querySelectorAll("[data-m]").forEach(function(cb){cb.checked=!!store[cb.dataset.m];cb.addEventListener("change",function(){
+    store[cb.dataset.m]=cb.checked;try{localStorage.setItem("ak-missions",JSON.stringify(store))}catch(e){}
+    if(cb.checked&&window.gtag)gtag("event","mission_done",{mission:cb.dataset.m});})});
+  document.querySelectorAll("[data-ga]").forEach(function(a){a.addEventListener("click",function(){if(window.gtag)gtag("event",a.dataset.ga)})});
+})();

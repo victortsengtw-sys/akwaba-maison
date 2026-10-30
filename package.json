@@ -1,0 +1,7 @@
+{
+  "name": "akwaba-maison",
+  "private": true,
+  "description": "AKWABA · 非洲品味之家 — static site",
+  "scripts": { "build": "node build.js", "check": "node check.js" },
+  "dependencies": { "opencc-js": "^1.0.5" }
+}
