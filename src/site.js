@@ -9,7 +9,7 @@
   var tiles=document.getElementById("tiles");
   if(tiles){document.querySelectorAll("[data-filter]").forEach(function(b){b.addEventListener("click",function(){
     var d=b.dataset.filter;document.querySelectorAll("[data-filter]").forEach(function(x){x.classList.toggle("on",x===b)});
-    tiles.querySelectorAll(".tile").forEach(function(t){t.hidden=!(d==="全部"||d==="全部"||t.dataset.d===d||b.textContent===t.dataset.d)});
+    tiles.querySelectorAll(".tile").forEach(function(t){t.hidden=!(d==="*"||t.dataset.d===d||b.textContent===t.dataset.d)});
     if(window.gtag)gtag("event","filter_domain",{domain:d});})})}
   var drv=document.getElementById("drv");
   document.querySelectorAll("[data-fr]").forEach(function(b){b.addEventListener("click",function(){

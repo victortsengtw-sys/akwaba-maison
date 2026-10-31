@@ -92,7 +92,7 @@ function plate(icon,pat,cls,label,anim){
 }
 const iconOf=c=>c.art||ICON_BY_ID[c.id]||ICON_BY_DOMAIN[c.domain]||"map";
 const patOf=c=>c.pat||PAT_BY_ID[c.id]||PAT_BY_DOMAIN[c.domain]||"kita";
-const artSvg=(c,cls="art",anim)=>plate(iconOf(c),patOf(c),cls,"插圖："+(c.nameZh||c.name),anim);
+const artSvg=(c,cls="art",anim)=>plate(iconOf(c),patOf(c),cls,T("插圖：")+(c.nameZh||c.name),anim);
 const routePlate=(r,cls,anim)=>plate(r.art||"map",r.pat||ROUTE_PAT[r.art]||"kita",cls,"",anim);
 
 // ---- appended: monogram + maps (shared with the Claude preview page) ----
@@ -113,8 +113,8 @@ function baseMap(type){
   const water=`fill="#1E2A55" opacity=".85"`;
   if(type==="abidjan")return `<path d="M0 118 C46 108 76 134 116 126 C146 120 156 148 186 148 C226 148 246 124 286 128 C310 131 322 122 338 124 V144 C322 142 310 151 286 148 C246 144 226 168 186 168 C156 168 146 140 116 146 C76 154 46 128 0 138 Z" ${water}/>${lab(18,92,"YOPOUGON")}${lab(104,98,"PLATEAU")}${lab(218,40,"COCODY")}${lab(92,206,"TREICHVILLE")}${lab(196,206,"MARCORY")}${lab(326,24,"BINGERVILLE →","end")}`;
   if(type==="coast")return `<rect x="0" y="152" width="338" height="68" ${water}/><path d="M0 114 C60 106 110 120 160 112 S260 104 338 110 V124 C260 118 210 128 160 124 S60 118 0 126 Z" ${water}/>${lab(20,206,"OCÉAN ATLANTIQUE")}${lab(20,102,"LAGUNE")}${lab(24,170,"ABIDJAN")}${lab(132,170,"GRAND-BASSAM")}${lab(250,170,"ASSINIE")}`;
-  if(type==="north")return `<circle cx="166" cy="106" r="34" fill="none" stroke="${I}" stroke-width=".5" stroke-dasharray="2 3"/>${lab(180,98,"KORHOGO")}${lab(188,140,"WARANIÉNÉ")}${lab(84,172,"FAKAHA")}${lab(162,44,"KONI")}${lab(26,78,"KOUTO")}${lab(320,206,"示意圖 · 非比例","end")}`;
-  if(type==="west")return `<path d="M120 60 L140 40 L160 58 L190 30 L210 62 L232 44 L260 70" fill="none" stroke="${I}" stroke-width=".7"/>${lab(182,118,"MAN")}${lab(226,74,"DENT DE MAN")}${lab(96,120,"CASCADE")}${lab(206,162,"GBÊPLEU")}${lab(96,188,"LIEUPLEU")}${lab(320,206,"示意圖 · 非比例","end")}`;
+  if(type==="north")return `<circle cx="166" cy="106" r="34" fill="none" stroke="${I}" stroke-width=".5" stroke-dasharray="2 3"/>${lab(180,98,"KORHOGO")}${lab(188,140,"WARANIÉNÉ")}${lab(84,172,"FAKAHA")}${lab(162,44,"KONI")}${lab(26,78,"KOUTO")}${lab(320,206,T("示意圖 · 非比例"),"end")}`;
+  if(type==="west")return `<path d="M120 60 L140 40 L160 58 L190 30 L210 62 L232 44 L260 70" fill="none" stroke="${I}" stroke-width=".7"/>${lab(182,118,"MAN")}${lab(226,74,"DENT DE MAN")}${lab(96,120,"CASCADE")}${lab(206,162,"GBÊPLEU")}${lab(96,188,"LIEUPLEU")}${lab(320,206,T("示意圖 · 非比例"),"end")}`;
   if(type==="dakar")return `<rect width="338" height="220" ${water}/><path d="M60 40 C110 30 170 50 214 80 C246 102 270 128 282 160 C270 176 238 178 214 168 C190 156 168 128 140 112 C112 96 76 84 52 62 Z" fill="#F1EADD" stroke="${I}" stroke-width=".6"/><circle cx="300" cy="182" r="7" fill="#F1EADD" stroke="${I}" stroke-width=".6"/>${lab(60,32,"ALMADIES")}${lab(166,80,"VILLAGE DES ARTS")}${lab(250,178,"PLATEAU","end")}${lab(316,206,"GORÉE","end")}`;
   return `<path d="M120 20 L210 24 L262 40 L276 96 L268 150 L296 196 L290 206 L200 204 L120 200 L70 186 L40 150 L50 110 L36 70 L70 40 Z" fill="#F1EADD" stroke="${I}" stroke-width=".7"/>${lab(150,52,"KORHOGO")}${lab(52,124,"MAN")}${lab(204,86,"BOUAKÉ")}${lab(66,172,"YAMOUSSOUKRO")}${lab(222,212,"ABIDJAN")}`;
 }
@@ -137,4 +137,4 @@ function heroFour(label){
   return `<svg class="hero-four" viewBox="0 0 338 220" role="img" aria-label="${esc(label)}"><defs>${["akan","dida","sudan","korhogo"].map((n,i)=>patDef(id+i,n,true)).join("")}</defs>${bands}${divs}${med}<g font-family="Jost,Arial,sans-serif" font-weight="700" font-size="11" letter-spacing="2" text-anchor="middle">${labs}</g><rect data-f x="3" y="3" width="332" height="214" fill="none" stroke="${K}" stroke-width="6"/></svg>`;
 }
 
-module.exports={ICON,heroFour,plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};
+module.exports={ICON,iconOf,patOf,heroFour,plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};

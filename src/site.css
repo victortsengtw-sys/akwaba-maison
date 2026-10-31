@@ -191,3 +191,8 @@ footer a{text-decoration:none;border-bottom:1px solid currentColor}
  .first .stats a{padding:12px 0}
 }
 @media(max-width:899px) and (max-height:660px){.hero .id>p,.hero .id .tag{display:none}.hero .id>svg{width:clamp(38px,8svh,56px)}}
+/* English edition: Latin text needs tighter tracking than Chinese */
+html[lang="en"] .zhname{letter-spacing:.18em;padding-left:.18em;font-family:"Jost",sans-serif;font-weight:500}
+html[lang="en"] .t{letter-spacing:0}
+html[lang="en"] body{font-family:"Noto Serif TC",Georgia,serif}
+html[lang="en"] nav.main a{letter-spacing:.06em}

@@ -11,5 +11,6 @@
    - 新增 2–4 張解讀卡（`layer: "解讀"`，`order` 接在同領域後面），欄位：`id`、`order`、`layer`、`domain`、`region`、`name`、`nameZh`、`img`、`links`、`signal`、`what`、`why`、`meaning`、`use`、`bridge`、`where`、`sources`、`verified: "已查證"`。
    - 檢查 1–3 張既有卡片或路線是否過時（展期、開放狀況、價格），直接修改並在 PR 說明裡寫清楚改了什麼、根據哪個來源。
    - ISO 週數為偶數時，新增 1 條路線：同一天的站點必須在同一區域，不跨城來回；每一站都要有 `fr`（給司機看的法文地名）；費用寫 FCFA，查不到寫「[待確認]」。
-6. **PR 說明**用繁體中文，條列：新增了哪些、修正了哪些、每一筆的來源。
-7. 開 PR 前執行 `node check.js`，必須通過。
+6. **英文版**：每一筆新增或修改的內容，同時更新 `data/en/` 對應的英文檔（`cards.json` 以 id 為鍵；`routes.json` 的 `stops`、`costs`、`missions` 數量和順序必須與中文一致；`occasions.json` 以 id 為鍵）。英文用自然、精簡的英式拼寫，地名保留原文；不能翻的寫 `[to be confirmed]`。沒有英文的項目不會出現在 /en/，`node check.js` 會列出提醒。
+7. **PR 說明**用繁體中文，條列：新增了哪些、修正了哪些、每一筆的來源。
+8. 開 PR 前執行 `node check.js`，必須通過。

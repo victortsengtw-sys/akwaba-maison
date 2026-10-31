@@ -1,5 +1,6 @@
 /* Content checks run on every pull request (weekly updates included). */
 const fs=require("fs");const load=f=>JSON.parse(fs.readFileSync("data/"+f,"utf8"));
+let EN={};try{EN=JSON.parse(fs.readFileSync("data/en/cards.json","utf8"))}catch(e){}
 const cards=load("cards.json"),routes=load("routes.json"),occ=load("occasions.json");const errs=[];
 const ids=new Set();const DOM=["藝術","時尚","工藝","音樂","飲食","空間","節慶","人物","自然","脈絡"];
 const MAPS=["abidjan","coast","country","north","west","dakar"];
@@ -22,3 +23,8 @@ for(const o of occ)for(const k of ["title","language","dress","etiquette","avoid
 const simp=/[们这说时为国过还发会对动种开关应两门问东车长书网语见边际传头间]/;
 for(const c of cards)for(const k of ["name","nameZh","what","why","meaning","use","signal","bridge","where"])if(c[k]&&simp.test(c[k]))errs.push(`卡片 ${c.id} 的 ${k} 好像混到簡體字`);
 if(errs.length){console.error(errs.join("\n"));process.exit(1)}console.log(`OK：${cards.length} 張卡、${routes.length} 條路線、${occ.length} 種場合`);
+// English edition: untranslated items are skipped on /en/; warn (not fail) so the weekly update remembers to add them
+try{const ec=JSON.parse(fs.readFileSync("data/en/cards.json","utf8")),er=JSON.parse(fs.readFileSync("data/en/routes.json","utf8")),eo=JSON.parse(fs.readFileSync("data/en/occasions.json","utf8"));
+const miss=[...cards.filter(c=>!ec[c.id]).map(c=>c.id),...routes.filter(r=>!er[r.id]).map(r=>r.id),...occ.filter(o=>!eo[o.id]).map(o=>o.id)];
+for(const r of routes){const o=er[r.id];if(o&&(o.stops.length!==r.stops.length||o.costs.length!==r.costs.length||o.missions.length!==r.missions.length))miss.push(r.id+"(英文站點/費用/任務數量不一致)")}
+if(miss.length)console.warn("提醒：以下內容還沒有英文版（/en/ 會先略過）："+miss.join(", "));}catch(e){console.warn("提醒：找不到 data/en/ 英文檔")}
