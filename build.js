@@ -39,7 +39,7 @@ const CN = [["象牙海岸", "科特迪瓦"], ["阿必尚", "阿比让"], ["大�
 const toHans = html => { for (const [a, b] of CN) html = html.split(a).join(b); return conv(html); };
 
 /* ---------- page shell ---------- */
-const NAV = () => [["", U("首頁", "Home")], ["story/", U("故事", "Stories")], ["explore/", U("探索", "Explore")], ["routes/", U("路線", "Routes")], ["about/", U("關於", "About")]];
+const NAV = () => [["", U("首頁", "Home")], ["story/", U("故事", "Stories")], ["explore/", U("探索", "Explore")], ["routes/", U("路線", "Routes")], ["savoir-vivre/", U("場合", "Occasions")], ["about/", U("關於", "About")]];
 let EN_PATHS = new Set(), ZH_PATHS = new Set();
 function shell({ lang, p, title, desc, body, ld, nav }) {
   const PRE = { hant: "", hans: "/zh-hans", en: "/en" };
@@ -105,7 +105,7 @@ function isoWeek(d) { const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(),
 let pages = [];
 function definePages() {
 // 暫時隱藏的頁面：不產生、不進 sitemap。要恢復就從這裡移除，並把它加回 NAV。
-const HIDDEN = ["signes/", "savoir-vivre/"];
+const HIDDEN = ["signes/"];
 const add = (p, nav, title, desc, body, ld) => { if (!HIDDEN.includes(p)) pages.push({ p, nav, title, desc, body, ld }); };
 const SITE_DESC = U("用故事讀懂象牙海岸（科特迪瓦）的藝術、建築、工藝、音樂、飲食與社交禮儀：12 章底圖、" + body.length + " 張有來源的解讀卡、" + routes.length + " 條分區路線，附預估花費與中法對照站名。", "Read Côte d'Ivoire's art, architecture, crafts, music, food and etiquette through stories: 12 background chapters, " + body.length + " sourced interpretation cards and " + routes.length + " area routes with cost estimates and French stop names.");
 

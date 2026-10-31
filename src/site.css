@@ -196,3 +196,10 @@ html[lang="en"] .zhname{letter-spacing:.18em;padding-left:.18em;font-family:"Jos
 html[lang="en"] .t{letter-spacing:0}
 html[lang="en"] body{font-family:"Noto Serif TC",Georgia,serif}
 html[lang="en"] nav.main a{letter-spacing:.06em}
+/* 手機選單：六個項目一次全部看得到，不用橫向滑動 */
+@media(max-width:699px){
+ nav.main .in{padding:0 4px;gap:0;justify-content:space-between}
+ nav.main a{flex:1 1 auto;text-align:center;padding:13px 1px;font-size:14px;letter-spacing:.04em}
+ html[lang="en"] nav.main a{font-family:"Jost",sans-serif;font-weight:500;font-size:13px;letter-spacing:0}
+}
+@media(max-width:370px){nav.main a{font-size:13px;letter-spacing:0}html[lang="en"] nav.main a{font-size:12px}}
