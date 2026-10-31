@@ -137,4 +137,4 @@ function heroFour(label){
   return `<svg class="hero-four" viewBox="0 0 338 220" role="img" aria-label="${esc(label)}"><defs>${["akan","dida","sudan","korhogo"].map((n,i)=>patDef(id+i,n,true)).join("")}</defs>${bands}${divs}${med}<g font-family="Jost,Arial,sans-serif" font-weight="700" font-size="11" letter-spacing="2" text-anchor="middle">${labs}</g><rect data-f x="3" y="3" width="332" height="214" fill="none" stroke="${K}" stroke-width="6"/></svg>`;
 }
 
-module.exports={heroFour,plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};
+module.exports={ICON,heroFour,plate,patDef,artSvg,routePlate,mono,mapSvg,setT:f=>{T=f}};
