@@ -28,3 +28,8 @@ try{const ec=JSON.parse(fs.readFileSync("data/en/cards.json","utf8")),er=JSON.pa
 const miss=[...cards.filter(c=>!ec[c.id]).map(c=>c.id),...routes.filter(r=>!er[r.id]).map(r=>r.id),...occ.filter(o=>!eo[o.id]).map(o=>o.id)];
 for(const r of routes){const o=er[r.id];if(o&&(o.stops.length!==r.stops.length||o.costs.length!==r.costs.length||o.missions.length!==r.missions.length))miss.push(r.id+"(英文站點/費用/任務數量不一致)")}
 if(miss.length)console.warn("提醒：以下內容還沒有英文版（/en/ 會先略過）："+miss.join(", "));}catch(e){console.warn("提醒：找不到 data/en/ 英文檔")}
+// French edition: untranslated items are skipped on /fr/; warn (not fail) so the weekly update remembers to add them
+try{const ec=JSON.parse(fs.readFileSync("data/fr/cards.json","utf8")),er=JSON.parse(fs.readFileSync("data/fr/routes.json","utf8")),eo=JSON.parse(fs.readFileSync("data/fr/occasions.json","utf8"));
+const miss=[...cards.filter(c=>!ec[c.id]).map(c=>c.id),...routes.filter(r=>!er[r.id]).map(r=>r.id),...occ.filter(o=>!eo[o.id]).map(o=>o.id)];
+for(const r of routes){const o=er[r.id];if(o&&(o.stops.length!==r.stops.length||o.costs.length!==r.costs.length||o.missions.length!==r.missions.length))miss.push(r.id+"(法文站點/費用/任務數量不一致)")}
+if(miss.length)console.warn("提醒：以下內容還沒有法文版（/fr/ 會先略過）："+miss.join(", "));}catch(e){console.warn("提醒：找不到 data/fr/ 法文檔")}

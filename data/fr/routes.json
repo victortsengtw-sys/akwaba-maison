@@ -1,0 +1,514 @@
+{
+"r1": {
+"title": "Une journée au cœur du miracle ivoirien",
+"span": "Plateau → Cocody",
+"zone": "Centre et nord-est",
+"intro": "Construisez vos repères au musée, passez devant les bâtiments du miracle ivoirien, plongez l’après-midi dans la scène de l’art contemporain et regardez la lagune depuis un hôtel historique au coucher du soleil. Toute la journée se passe au Plateau et à Cocody, sans allers-retours.",
+"transport": "Le VTC dans la zone (Yango et autres) est le plus simple. Du Plateau à Cocody, environ 5 km : 1 200–1 800 FCFA en heures creuses, 1 800–2 500 FCFA aux heures de pointe.",
+"total": "env. 8 000–16 000",
+"costNote": "Hors déjeuner et consommations à l’hôtel. Les prix des VTC varient selon l’heure ; le vendredi soir est le plus cher.",
+"missions": [
+"Trouver une fresque au pied de La Pyramide et la photographier",
+"Demander dans une galerie : « Dans quelles foires cet artiste a-t-il exposé ? »",
+"Au musée des Civilisations, identifier un objet clé de chacune des quatre aires culturelles",
+"Commander un attiéké poisson braisé au maquis et manger de la main droite"
+],
+"costs": [
+[
+"4 courses",
+"5 000–10 000"
+],
+[
+"Dîner au maquis",
+"2 500–6 000"
+],
+[
+"Galeries · fondation",
+"Gratuit"
+],
+[
+"Entrée du musée",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Musée des Civilisations",
+"Voir d’abord ici les objets des quatre aires culturelles ; vérifier l’ouverture pendant la rénovation."
+],
+[
+"La Pyramide · cathédrale Saint-Paul",
+"Une promenade reliant deux bâtiments modernistes de l’époque du miracle ivoirien."
+],
+[
+"Déjeuner au Plateau",
+"Restaurants ou restauration rapide du quartier d’affaires."
+],
+[
+"Galerie Cécile Fakhoury",
+"Environ 15–20 minutes en voiture ; expositions gratuites."
+],
+[
+"Fondation Donwahi",
+"Restez un moment dans le salon après l’exposition."
+],
+[
+"Coucher de soleil à l’Hôtel Ivoire",
+"Un verre au bord de la lagune en évoquant son époque."
+],
+[
+"Dîner au maquis",
+"Demandez à un ami de vous emmener à son maquis habituel."
+]
+]
+},
+"r2": {
+"title": "La rive sud : artisanat, scène et vie nocturne",
+"span": "Treichville → Marcory",
+"zone": "Rive sud",
+"intro": "La rive sud de la lagune, c’est Abidjan dans ce qu’elle a de plus vivant : le tailleur de Mandela y a son atelier, le MASA y monte sa scène, et Magic System y a grandi.",
+"transport": "Tout se trouve dans deux communes voisines : la plupart des trajets sont courts.",
+"total": "env. 7 000–15 000",
+"costNote": "Hors achats. Les prix des restaurants de la Zone 4 varient beaucoup.",
+"missions": [
+"Au marché, distinguer un wax imprimé d’un pagne tissé main",
+"Trouver le prochain spectacle au Palais de la Culture",
+"Saluer quelqu’un en nouchi : « On dit quoi ? »",
+"Parler de Mandela et de Miriam Makeba avec le personnel de la boutique"
+],
+"costs": [
+[
+"3–4 courses",
+"4 000–9 000"
+],
+[
+"Dîner",
+"à partir de 2 500–6 000"
+],
+[
+"Un coupon de wax",
+"[selon la marque]"
+],
+[
+"Chemise Pathé’O",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Atelier et boutique Pathé’O",
+"Essayer une chemise en pagne et entendre l’histoire de Mandela."
+],
+[
+"Les pagnes du marché",
+"S’exercer à distinguer le wax industriel du pagne tissé main."
+],
+[
+"Déjeuner",
+"Un petit restaurant de Treichville."
+],
+[
+"Palais de la Culture",
+"Lieu principal du MASA ; voir s’il y a un spectacle ou une exposition."
+],
+[
+"Anoumabo",
+"Un vieux quartier de Marcory, berceau du FEMUA."
+],
+[
+"Dîner en Zone 4 à Marcory",
+"Le quartier des restaurants prisé des expatriés et de l’élite abidjanaise."
+]
+]
+},
+"r3": {
+"title": "Deux jours sur la côte : Grand-Bassam et Assinie",
+"span": "Abidjan → Grand-Bassam → Assinie",
+"zone": "Côte est",
+"intro": "Cap à l’est le long de la côte : le premier jour, les rues coloniales de la première capitale ; le second, la plage du week-end de l’élite abidjanaise. De fin octobre à début novembre, vous tomberez sur la fête de l’Abissa.",
+"transport": "Une voiture privée ou un VTC est le plus simple ; on peut aussi prendre un gbaka (minibus) à la gare de Bassam à Treichville, bien moins cher mais plus lent. L’autoroute Abidjan–Grand-Bassam est à péage.",
+"total": "coûts connus env. 66 000–125 000",
+"costNote": "Estimation pour une personne en hébergement de milieu de gamme ; à deux, on partage la voiture. Le transport vers Assinie et l’entrée du musée ne sont pas encore vérifiés.",
+"missions": [
+"Trouver dans le quartier historique une maison coloniale enlacée par des racines",
+"Identifier au musée du Costume les tenues de trois peuples différents",
+"Demander à quelqu’un d’ici : quels jours a lieu l’Abissa cette année ?",
+"Demander l’origine d’un masque au marché artisanal"
+],
+"costs": [
+[
+"Abidjan → Grand-Bassam, aller simple",
+"env. 20 000–27 000"
+],
+[
+"Péage (par trajet)",
+"1 000–3 500"
+],
+[
+"Une nuit à Grand-Bassam",
+"env. 35 000–70 000"
+],
+[
+"Repas, 4",
+"10 000–24 000"
+],
+[
+"Aller-retour à Assinie",
+"[à confirmer]"
+],
+[
+"Musée du Costume",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Départ d’Abidjan",
+"Environ 40 km, de 40 minutes à une heure en voiture."
+],
+[
+"Marché artisanal au bord de la route",
+"Masques, étoffes et sculptures ; pensez à demander leur provenance."
+],
+[
+"Ville historique du Quartier France",
+"Le quartier colonial classé au patrimoine mondial de l’UNESCO."
+],
+[
+"Poisson braisé au bord de la mer",
+"Servi avec de l’attiéké."
+],
+[
+"Musée national du Costume",
+"Installé dans l’ancienne résidence du gouverneur ; les costumes de tous les peuples réunis."
+],
+[
+"Soirée à Grand-Bassam",
+"Pendant la fête, assistez aux soirées de l’Abissa."
+],
+[
+"En route pour Assinie",
+"Environ 90 km à l’est d’Abidjan ; continuez le long de la côte depuis Grand-Bassam."
+],
+[
+"Lagune et plage d’Assinie",
+"L’Atlantique d’un côté, la lagune calme de l’autre ; prenez un bateau jusqu’à La Passe, où la lagune rejoint la mer."
+],
+[
+"Retour à Abidjan",
+"Évitez les embouteillages du dimanche soir."
+]
+]
+},
+"r4": {
+"title": "Trois jours au cœur du pays : Yamoussoukro et le pays baoulé",
+"span": "Abidjan → Yamoussoukro → Tiébissou",
+"zone": "Centre",
+"intro": "Cap au nord vers la ville natale du père de la nation : le premier jour, la politique des grands travaux ; le deuxième, un village de tisserands baoulé ; le troisième, l’origine du cacao.",
+"transport": "Les cars interurbains sont les moins chers ; sur place, woro-woro ou voiture privée. Les tarifs peuvent augmenter de 20 à 30 % avant les fêtes et le week-end.",
+"total": "coûts connus env. 7 000–10 000",
+"costNote": "Seul le prix du car a été vérifié sur cet itinéraire ; les autres postes seront ajoutés lors des mises à jour hebdomadaires.",
+"missions": [
+"Trouver le vitrail au centre de la coupole de la basilique",
+"Au village de tisserands, voir comment les bandes étroites sont cousues ensemble",
+"Dans une plantation, suivre une fève de la cabosse au sac",
+"Raconter la légende d’Abla Pokou en une phrase"
+],
+"costs": [
+[
+"Car aller-retour",
+"7 000–10 000"
+],
+[
+"Visites basilique · fondation",
+"[à confirmer]"
+],
+[
+"2 nuits d’hébergement",
+"[à confirmer]"
+],
+[
+"Voiture locale · guide",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Car longue distance depuis Abidjan",
+"UTB et autres compagnies ; environ 240 km, environ 3 heures."
+],
+[
+"Basilique Notre-Dame de la Paix",
+"Visites guidées payantes."
+],
+[
+"Fondation Félix Houphouët-Boigny pour la recherche de la paix",
+"Architecture moderniste ; visites guidées payantes."
+],
+[
+"Lac aux caïmans du palais présidentiel",
+"Le palais lui-même n’est pas ouvert au public."
+],
+[
+"Villages de tisserands autour de Tiébissou",
+"Terre du pagne tissé baoulé ; à organiser de préférence avec un guide local."
+],
+[
+"Retour à Yamoussoukro",
+"Relire le soir la légende d’Abla Pokou."
+],
+[
+"Visite d’une plantation de cacao",
+"Des visites peuvent être organisées autour de Yamoussoukro pour comprendre la culture et la transformation du cacao."
+],
+[
+"Car de retour vers Abidjan",
+"Achetez vos billets à l’avance avant les fêtes."
+]
+]
+},
+"r5": {
+"title": "La deuxième capitale : Bingerville",
+"span": "Cocody → Bingerville",
+"zone": "Périphérie est",
+"intro": "En 1900, la fièvre jaune a chassé la capitale de Grand-Bassam vers ce plateau. Aujourd’hui, Bingerville est tout près de Cocody mais calme comme une autre époque : un jardin botanique colonial, un musée dans une école d’art et un village de pêcheurs sur la lagune.",
+"transport": "Le VTC depuis Cocody est le plus simple. Bingerville est petite ; faites de courts trajets entre le jardin et le musée.",
+"total": "coûts connus env. 9 000–19 000",
+"costNote": "Le coût des courses est estimé à partir du tarif du trajet Plateau–Cocody (environ 5 km) et n’a pas été testé.",
+"missions": [
+"Trouver au jardin botanique un arbre de plus de cent ans",
+"Expliquer en une phrase pourquoi la capitale a quitté Grand-Bassam pour venir ici",
+"Au musée Combes, choisir une peinture coloniale de l’Afrique et se demander : de quel point de vue est-elle peinte ?",
+"Demander au village de pêcheurs ce qui a été pêché aujourd’hui"
+],
+"costs": [
+[
+"Courses aller-retour (est.)",
+"env. 6 000–12 000"
+],
+[
+"Déjeuner",
+"3 000–7 000"
+],
+[
+"Entrée du jardin botanique",
+"[à confirmer]"
+],
+[
+"Entrée du musée",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Départ de Cocody",
+"Environ 15–20 km à l’est."
+],
+[
+"Jardin botanique de Bingerville",
+"Créé en 1904 sur ordre du gouverneur Angoulvant, environ 56 hectares, où café et cacao ont été expérimentés pour la première fois en Côte d’Ivoire, avec des arbres centenaires. Allez-y de jour, accompagné, et demandez au personnel de vous guider : la presse locale a signalé des problèmes de sécurité dans le parc."
+],
+[
+"Ancien palais du gouverneur (extérieur)",
+"Un bâtiment des années de capitale, 1900–1934 ; vérifiez l’ouverture, surtout visible de l’extérieur."
+],
+[
+"Déjeuner au bord de la lagune",
+"Poisson braisé et attiéké."
+],
+[
+"Musée Charles-Combes",
+"Ouvert en 1968 au Centre des arts appliqués, avec environ 91 peintures et sculptures, nommé d’après le peintre de l’époque coloniale Charles-Alphonse Combes."
+],
+[
+"Village de pêcheurs d’Adjin",
+"Un paisible village de pêcheurs au bord de la lagune ; demandez ce qui a été pêché aujourd’hui."
+]
+]
+},
+"r6": {
+"title": "Trois jours d’artisanat au Nord : Korhogo et le pays sénoufo",
+"span": "Abidjan ✈ Korhogo",
+"zone": "Nord",
+"intro": "Un peu plus d’une heure de vol vous mène de la ville lagunaire à la savane. Les trois jours se passent autour de Korhogo : des tisserands qui assemblent les bandes en étoffe, des peintres qui peignent à la main des animaux sur le coton, des forgerons qui fondent le minerai de fer dans des fourneaux d’argile.",
+"transport": "Les vols directs d’Air Côte d’Ivoire font gagner le plus de temps ; sur place, une voiture avec guide est le plus simple. Des cars longue distance existent aussi, mais le trajet est long.",
+"total": "coûts connus env. 80 000–170 000",
+"costNote": "Vols convertis à partir d’environ 61–129 € l’aller simple sur les comparateurs ; les prix varient selon les dates.",
+"missions": [
+"À Waraniéné, voir comment des bandes étroites deviennent une étoffe entière",
+"Demander à un peintre quelle histoire racontent les animaux de la toile (sans poser de questions sur les secrets du Poro)",
+"Voir un fourneau d’argile à Koni",
+"Avant d’acheter une toile peinte, demander : teintures naturelles ou chimiques ?"
+],
+"costs": [
+[
+"Vol aller-retour",
+"env. 80 000–170 000"
+],
+[
+"Voiture locale · guide",
+"[à confirmer]"
+],
+[
+"2 nuits d’hébergement",
+"[à confirmer]"
+],
+[
+"Pagne · toile peinte",
+"[à négocier]"
+]
+],
+"stops": [
+[
+"Vol vers Korhogo",
+"Environ 1 h 20 en direct ; Korhogo est à environ 500 km au nord d’Abidjan."
+],
+[
+"Village de tisserands de Waraniéné",
+"À quelques kilomètres de Korhogo, la plus forte concentration de métiers à tisser du Nord. Le savoir-faire est transmis par des tisserands dioula qui travaillent le coton."
+],
+[
+"Rue des sculpteurs de Korhogo",
+"Calaos et masques sculptés ; sachez d’abord distinguer pièces touristiques et pièces anciennes."
+],
+[
+"Village des toiles peintes de Fakaha",
+"À environ 30 km, la principale source des toiles de Korhogo. Les ateliers de peintres de Korhogo ville ont été démolis pour des travaux routiers début 2024 : mieux vaut aller directement au village."
+],
+[
+"Village de forgerons de Koni",
+"Des forgerons traditionnels qui fondent encore le minerai dans des fourneaux d’argile."
+],
+[
+"En option : mosquée de terre de Kouto",
+"L’une des huit mosquées de style soudanais inscrites par l’UNESCO en 2021 ; trajet plus long, vérifiez l’état des routes."
+],
+[
+"Vol retour vers Abidjan",
+"Peu de vols par semaine ; réservez votre retour à l’avance."
+]
+]
+},
+"r7": {
+"title": "La ville aux dix-huit montagnes : Man et le monde dan",
+"span": "Abidjan ✈ Man",
+"zone": "Montagnes de l’Ouest",
+"intro": "L’Ouest est la région la plus fraîche et la plus verte de Côte d’Ivoire, et le berceau de la culture des masques dan (yacouba). Les trois jours se passent autour de Man : cascades, ascension de la Dent de Man, singes de la forêt sacrée et, avec un peu de chance, les danseurs sur échasses.",
+"transport": "L’avion fait gagner le plus de temps ; les cars longue distance mettent 7 heures ou plus. Louez sur place une voiture avec guide.",
+"total": "coûts connus à partir d’env. 71 800",
+"costNote": "Le vol correspond au tarif aller-retour le plus bas vu sur le site d’Air Côte d’Ivoire ; les prix réels varient selon les dates.",
+"missions": [
+"Compter combien de montagnes on voit du sommet de la Dent de Man",
+"Au marché, distinguer masques touristiques et masques rituels",
+"Demander avant de photographier masques ou danseurs",
+"Écouter un aîné raconter une histoire d’esprits de la forêt"
+],
+"costs": [
+[
+"Vol aller-retour",
+"à partir d’env. 71 800"
+],
+[
+"Guide · voiture",
+"[à confirmer]"
+],
+[
+"2 nuits d’hébergement",
+"[à confirmer]"
+],
+[
+"Entrée forêt sacrée · pont de lianes",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Vol vers Man",
+"Environ 1 h 15 en direct ; peu de vols par semaine."
+],
+[
+"Cascade de Man",
+"Une cascade à plusieurs niveaux dans une forêt de bambous. L’ancien pont de lianes n’est plus qu’une structure."
+],
+[
+"Grand marché de Man",
+"Regardez les masques du marché et demandez s’ils sont destinés aux touristes ou au rituel."
+],
+[
+"Ascension de la Dent de Man",
+"Avec un guide local ; passages d’escalade sur granite ; environ une demi-journée. Du sommet, on voit les « dix-huit montagnes »."
+],
+[
+"Singes de la forêt sacrée de Gbêpleu",
+"La forêt sacrée a ses propres règles ; suivez votre guide."
+],
+[
+"Pont de lianes de Lieupleu",
+"Le pont de lianes le plus connu de la région ; vérifiez son état avant d’y aller et demandez à quelqu’un d’ici de vous accompagner."
+],
+[
+"Danse des masques · danse des échassiers (sur arrangement)",
+"Pas tous les jours ; à organiser par des contacts locaux, et demandez avant de photographier."
+]
+]
+},
+"r8": {
+"title": "Deux jours à la Biennale de Dakar",
+"span": "Abidjan ✈ Dakar",
+"zone": "Sénégal",
+"intro": "« Abidjan a l’argent, Dakar a le goût » : allez voir par vous-même. Les deux jours se passent sur la presqu’île de Dakar : le musée des Civilisations noires, le village des arts, l’île de Gorée et, à partir du 19 novembre, les lieux de Dak’Art.",
+"transport": "Vols directs Abidjan–Dakar. VTC ou taxis en ville ; chaloupe pour Gorée.",
+"total": "coûts connus à partir d’env. 306 500",
+"costNote": "Le Sénégal utilise aussi le franc CFA ouest-africain. Le vol correspond au tarif aller-retour le plus bas vu sur le site d’Air Côte d’Ivoire et peut être plus élevé pendant la biennale.",
+"missions": [
+"Trouver une œuvre venue de Côte d’Ivoire au musée des Civilisations noires",
+"Discuter dix minutes avec un artiste au village des arts",
+"Traverser en silence la Maison des esclaves à Gorée",
+"Comparer : en quoi les scènes artistiques de Dakar et d’Abidjan diffèrent-elles ?"
+],
+"costs": [
+[
+"Vol aller-retour",
+"à partir d’env. 300 000"
+],
+[
+"Chaloupe + Maison des esclaves",
+"env. 6 500"
+],
+[
+"1–2 nuits d’hébergement",
+"[à confirmer]"
+],
+[
+"Entrée du musée",
+"[à confirmer]"
+]
+],
+"stops": [
+[
+"Musée des Civilisations noires",
+"Ouvert en 2018, l’un des musées les plus récents et les plus grands d’Afrique."
+],
+[
+"Déjeuner autour du marché Kermel",
+"Un bâtiment de marché de l’époque coloniale dans la vieille ville."
+],
+[
+"Village des arts",
+"Une cinquantaine d’ateliers d’artistes où l’on peut parler directement avec eux."
+],
+[
+"Île de Gorée",
+"Environ 20 minutes de chaloupe depuis le port de Dakar ; patrimoine mondial de l’UNESCO. La Maison des esclaves est un lieu de mémoire : visitez en silence."
+],
+[
+"Lieux de Dak’Art",
+"Du 19 novembre au 19 décembre 2026. Le IN est l’exposition officielle ; le OFF est réparti dans toute la ville."
+],
+[
+"Village artisanal de Soumbédioune",
+"Les pirogues rentrent au crépuscule, juste à côté du marché artisanal."
+]
+]
+}
+}

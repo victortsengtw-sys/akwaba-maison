@@ -1,0 +1,65 @@
+{
+"o1": {
+"title": "Premier rendez-vous d’affaires (Abidjan)",
+"language": "Le français, en vouvoyant. Saluez complètement : dites bonjour, demandez des nouvelles de la famille et de la santé, et seulement ensuite venez-en au fait. Ici, la salutation est le cœur de la politesse.",
+"dress": "Un costume, ou une chemise en pagne bien coupée (dans le style Pathé’O) ; il fait chaud, choisissez des tissus légers et respirants. Des chaussures propres comptent énormément.",
+"etiquette": "Serrez la main de toutes les personnes présentes, pas seulement de la plus haut placée. Tendez votre carte de visite des deux mains ou de la main droite. À un premier rendez-vous, construisez d’abord la relation ; rien ne presse pour parler chiffres.",
+"avoid": "Parler prix dès qu’on s’assoit ; ne saluer que le patron ; passer des objets de la main gauche ; aborder soi-même la politique ou l’ethnie."
+},
+"o2": {
+"title": "Une journée culturelle avec des clients VIP asiatiques",
+"language": "Vous assurez l’interprétariat chinois-français et la narration : préparez pour chaque étape trente secondes sur le « pourquoi », pas seulement le « quoi ».",
+"dress": "Élégance décontractée : chemises en lin, veste déstructurée ; une pièce en tissu africain fait un bon sujet de conversation.",
+"etiquette": "Parcours suggéré : musée des Civilisations le matin (les repères) → La Pyramide et la cathédrale Saint-Paul au Plateau (le miracle ivoirien) → Cécile Fakhoury et Donwahi l’après-midi (l’art contemporain) → un verre à l’Hôtel Ivoire au crépuscule → un bon maquis pour le dîner. Demandez à la galerie avant de photographier les œuvres.",
+"avoid": "Marchander sur place ; qualifier l’art contemporain d’« artisanat folklorique » ; charger le programme au point de ne plus avoir le temps de s’asseoir et parler."
+},
+"o3": {
+"title": "Mariages et dot (cérémonie traditionnelle)",
+"language": "Surtout le français ; les aînés peuvent parler leur langue. Utilisez un français soutenu pour les discours et félicitations.",
+"dress": "Il y a souvent un pagne choisi par la famille (l’« uniforme ») : demandez aux hôtes s’il y en a un, achetez-le et faites coudre votre tenue par un tailleur. Sinon, portez une tenue africaine de cérémonie ou un costume.",
+"etiquette": "La dot est une cérémonie entre deux familles ; les invités sont surtout témoins et porteurs de vœux. Les usages en matière d’argent et de cadeaux varient selon les peuples et les familles : demandez d’abord à un ami d’ici. Porter le pagne « uniforme » signifie que vous « êtes du côté de cette famille ».",
+"avoid": "Être plus voyant que les mariés ; filmer ou photographier pour vous-même pendant la cérémonie."
+},
+"o4": {
+"title": "Funérailles",
+"language": "Présentez vos condoléances par « Toutes mes condoléances » ou « Je partage votre peine ».",
+"dress": "Couleurs sombres ou pagne choisi par la famille ; les usages de couleur diffèrent selon les peuples, renseignez-vous à l’avance.",
+"etiquette": "Chez de nombreux peuples (surtout akan), les funérailles sont de grands événements sociaux qui peuvent durer plusieurs jours et ont souvent lieu longtemps après le décès ; y assister est en soi une marque de respect envers la famille. Une petite contribution témoigne de votre soutien, mais renseignez-vous d’abord sur l’usage.",
+"avoid": "Prendre la musique et la danse animées pour une fête ordinaire ; s’habiller trop décontracté."
+},
+"o5": {
+"title": "Dîners officiels et grandes tables",
+"language": "Le français ; l’anglais peut se mêler entre invités. Commencez par « Bon appétit » et trinquez avec « Santé ».",
+"dress": "Un costume, ou une tenue africaine de cérémonie de qualité ; les invitées portent souvent des robes en pagne sur mesure.",
+"etiquette": "Les règles de la table à la française s’appliquent : attendez que l’hôte commence, posez correctement vos couverts, posez le pain directement sur la nappe. Quand l’hôte commande le vin, complimentez avant de commenter. Culture française, football et art sont de bons sujets.",
+"avoid": "La politique ou l’ethnie ; comparer devant vos hôtes les prix locaux à ceux de l’Europe."
+},
+"o6": {
+"title": "Maquis et sociabilité de rue",
+"language": "Le français, plus un peu de nouchi pour se rapprocher : « On dit quoi ? » (quoi de neuf ?), « Y’a pas drap » (pas de problème). Un peu suffit.",
+"dress": "Décontracté mais soigné ; les gens d’ici attachent beaucoup d’importance aux chaussures propres et aux vêtements repassés.",
+"etiquette": "Mangez et passez les objets de la main droite. Offrir une tournée est la façon de construire des relations : pensez à rendre la pareille la fois suivante.",
+"avoid": "Utiliser tant de nouchi que cela sonne comme une imitation ; faire une mine dégoûtée devant la nourriture de rue."
+},
+"o7": {
+"title": "Travailler avec des partenaires musulmans (le Nord, les milieux d’affaires dioula)",
+"language": "Le français ; saluer par « Salam aleykoum » est bien reçu, la réponse étant « Aleykoum salam ».",
+"dress": "Plutôt sobre : pantalon long et manches longues.",
+"etiquette": "Avant de serrer la main, voyez si l’autre personne tend la sienne, surtout entre hommes et femmes. Pendant le ramadan, ne proposez pas de repas en journée ; invitez plutôt à un dîner de rupture du jeûne. Passez les objets de la main droite. L’histoire de Kong et les mosquées de terre sont de bons sujets.",
+"avoid": "Insister pour faire boire à table ; fixer des rendez-vous aux heures de prière."
+},
+"o8": {
+"title": "Visiter des villages et des chefs traditionnels",
+"language": "La communication passe généralement par un intermédiaire et par le porte-parole du chef, qui relaient vos paroles.",
+"dress": "Formel et sobre ; une tenue africaine de cérémonie témoigne du respect.",
+"etiquette": "Faites organiser la visite à l’avance par un intermédiaire, et apportez un présent (boissons ou kola sont courants ; demandez à l’intermédiaire ce qui convient). Saluez d’abord les aînés et attendez patiemment la fin des salutations rituelles.",
+"avoid": "Contourner le porte-parole pour parler directement au chef ; photographier sans autorisation."
+},
+"o9": {
+"title": "Parler de l’Afrique au public asiatique (contenus publics)",
+"language": "Écrivez surtout dans la langue de votre public, en gardant les noms clés dans leur forme originale (Pathé’O, Dak’Art) ; cela fait plus professionnel.",
+"dress": "Face caméra ou sur scène, une pièce d’un créateur africain peut être votre signature visuelle.",
+"etiquette": "Soyez précis : nommez le pays, la ville, le peuple, la personne, jamais « les Africains sont tous… ». Parlez davantage du présent : design, art, entrepreneuriat. Structurer vos publications en repères → signe → sens vous distingue des récits de voyage ordinaires.",
+"avoid": "Les mots flous comme « style tribal » ou « primitif » ; traiter l’Afrique comme un seul pays ; ne raconter que des histoires exotiques."
+}
+}

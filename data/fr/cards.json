@@ -1,0 +1,497 @@
+{
+"pyramide": {
+"nameZh": "La Pyramide (Plateau)",
+"signal": "Dans le quartier d’affaires du Plateau, une pyramide de béton à gradins, comme un vaisseau spatial, avec d’immenses fresques sur ses murs et presque rien à l’intérieur.",
+"what": "Immeuble brutaliste de 15 étages conçu par l’architecte italien Rinaldo Olivieri, commencé en 1968 et achevé en 1973, l’une des premières tours du Plateau. L’idée était de faire entrer l’animation d’un marché africain dans un bâtiment urbain.",
+"why": "Il incarne l’optimisme du « miracle ivoirien » : volumes ouverts pour la ventilation, panneaux préfabriqués pour l’ombre, un modernisme pensé pour les tropiques. Des coûts d’entretien élevés et des espaces peu fonctionnels l’ont ensuite laissé presque à l’abandon.",
+"meaning": "C’est l’un des bâtiments les plus cités du « modernisme africain ». En 2023, le projet « Pyramide 2023 » du ministère de la Culture a invité des artistes à peindre ses façades, et en 2026 un concours international d’architecture a cherché des idées pour le faire revivre. Son destin reflète la façon dont Abidjan traite son propre passé.",
+"use": "Arrêtez-vous à son pied avec des invités amateurs d’architecture et racontez les trois temps : miracle, abandon, renaissance artistique. C’est une histoire complète de la ville.",
+"bridge": "Comparez avec les débats sur la conservation des bâtiments métabolistes japonais (comme la Nakagin Capsule Tower), ou les discussions avant et après la démolition du marché Zhonghua à Taipei.",
+"where": "Plateau ; facile à combiner le même jour avec la cathédrale Saint-Paul et le musée des Civilisations."
+},
+"ivoire": {
+"nameZh": "Hôtel Ivoire",
+"signal": "Une tour blanche de 25 étages au bord de la lagune à Cocody, où se tiennent conférences nationales, lancements et mariages.",
+"what": "Conçu par l’architecte israélien Moshe Mayer et inauguré en 1963, il a compté une patinoire, un cinéma et un centre de conférences. Il est aujourd’hui exploité par Sofitel et abrite un casino ; une nouvelle rénovation a été annoncée en septembre 2026.",
+"why": "C’était la vitrine du « miracle ivoirien » voulue par Houphouët-Boigny. Peu après son ouverture, le New York Times le qualifiait de peut-être plus éblouissant hôtel d’Afrique. Il a connu grandeur et déclin pendant les années de crise, avant de rouvrir sous l’enseigne Sofitel en 2014.",
+"meaning": "Il reste la scène sociale du pays : lancements du MASA et du FEMUA, partenariats de l’Art Week, délégations étrangères, tout y passe.",
+"use": "Pour recevoir des invités de marque, un verre ici en évoquant son époque fait une meilleure conversation que n’importe quel hôtel récent.",
+"bridge": "Comme le Grand Hotel de Taipei : la vitrine nationale d’une époque.",
+"where": "Cocody, face à la lagune Ébrié."
+},
+"basilica": {
+"nameZh": "Basilique Notre-Dame de la Paix, Yamoussoukro",
+"signal": "Au milieu de la savane d’une petite ville surgit une église à coupole presque aussi grande que Saint-Pierre de Rome.",
+"what": "Construite par Houphouët-Boigny dans sa ville natale de Yamoussoukro sur le modèle de Saint-Pierre, elle a été bâtie de 1985 à 1989 et consacrée par le pape Jean-Paul II le 10 septembre 1990. Elle figure souvent parmi les plus grandes églises du monde. Les visites sont payantes et guidées.",
+"why": "C’était le grand projet personnel du père de la nation, et une partie du « retour de la capitale au village ». Elle a été construite en pleine crise économique, et son coût a suscité de vifs débats à l’étranger.",
+"meaning": "Elle symbolise l’ambition présidentielle, la place du catholicisme dans le sud et la politique des grands travaux.",
+"use": "Incontournable lors d’une visite à Yamoussoukro. Parlez de ses dimensions, de ses vitraux et de son histoire ; si le coût est évoqué, restez attentif à ce que vos hôtes pensent du père de la nation.",
+"bridge": "Comparez avec les monuments que des dirigeants ont élevés dans leur ville natale à travers le monde, ou avec Saint-Pierre elle-même.",
+"where": "Yamoussoukro ; à combiner avec le lac aux caïmans du palais présidentiel."
+},
+"mosques": {
+"nameZh": "Les mosquées de style soudanais du Nord",
+"signal": "Une mosquée basse et massive, couleur de terre, avec un minaret pyramidal et des pieux de bois qui hérissent ses murs.",
+"what": "Huit mosquées de style soudanais du Nord, à Tengréla, Kouto, Sorobango, Samatiguila, Nambira, Kong, Kaouara et ailleurs, ont été inscrites au patrimoine mondial de l’UNESCO en 2021. Les pieux saillants servent à la fois de structure et d’échafaudage pour le recrépissage annuel.",
+"why": "Le style est né à Djenné, au Mali, et a été diffusé vers le sud le long des routes commerciales par les marchands mandé en quête de kola et d’or, témoin du métissage des cultures sénoufo et malinké. Dans les années 1920, il en existait près de 300 ; il en reste une vingtaine.",
+"meaning": "Elles montrent que le nord ivoirien appartient à la civilisation sahélienne, et rappellent que le pays ne se résume pas à sa côte et à son cacao.",
+"use": "Un bon sujet pour se rapprocher d’amis originaires du Nord. Pour des invités asiatiques, « l’Afrique a sa propre tradition d’architecture islamique » bouscule les clichés.",
+"bridge": "Comparez avec l’architecture de terre de la route de la soie, ou la reconstruction périodique du sanctuaire d’Ise au Japon, où le renouvellement maintient le bâtiment en vie.",
+"where": "Kong, Kouto, Tengréla et d’autres villes du Nord ; généralement combiné avec un voyage à Korhogo."
+},
+"bassam": {
+"nameZh": "La ville historique de Grand-Bassam",
+"signal": "Dans une ville balnéaire, des alignements de bâtiments coloniaux à vérandas et balcons de bois ; certains se sont effondrés sous les racines des arbres, d’autres sont devenus galeries et cafés.",
+"what": "Première capitale coloniale de la Côte d’Ivoire, à environ une heure de route. Son quartier historique a été inscrit au patrimoine mondial de l’UNESCO en 2012. C’est aussi le siège du royaume N’zima.",
+"why": "Une épidémie de fièvre jaune en a chassé l’administration en 1900, puis le commerce est parti vers le port en eau profonde d’Abidjan : les bâtiments coloniaux ont été comme « figés » dans le temps.",
+"meaning": "Elle réunit l’histoire coloniale et la tradition royale n’zima, deux mondes côte à côte. Chaque année, à l’Abissa, toute la ville s’anime.",
+"use": "La meilleure demi-journée d’excursion pour des invités. Commencez par : « C’était autrefois la capitale ; une épidémie de fièvre jaune l’a arrêtée en 1900. » Finissez par du poisson braisé au bord de la mer.",
+"bridge": "Comme Anping à Tainan ou Tamsui : port, architecture coloniale et scène créative d’aujourd’hui superposés.",
+"where": "Quartier France ; musée national du Costume ; un marché artisanal sur la route d’Abidjan."
+},
+"stpaul": {
+"nameZh": "Cathédrale Saint-Paul d’Abidjan",
+"signal": "Une église à la forme saisissante sur le front de lagune du Plateau : une immense croix inclinée retenue par des rangées de câbles, comme une silhouette aux bras ouverts.",
+"what": "Cathédrale moderniste conçue par l’architecte italien Aldo Spirito, commencée en 1980 et consacrée par le pape Jean-Paul II en août 1985. Ses vitraux placent des personnages, plantes et animaux africains aux côtés des récits bibliques.",
+"why": "Comme La Pyramide, c’est une tentative de « dire l’Afrique en architecture moderne », et un repère spirituel pour la communauté catholique du sud.",
+"meaning": "C’est l’un des bâtiments les plus reconnaissables de la silhouette d’Abidjan, visible de l’autre côté de la lagune. Pendant la crise de 2011, environ 1 800 personnes s’y sont réfugiées.",
+"use": "Parlez d’architecture plutôt que de foi : la symbolique de la forme et les images africaines des vitraux.",
+"bridge": "Comparez avec la chapelle Luce de l’université Tunghai à Taïwan : toutes deux réinventent l’espace religieux par une structure moderne.",
+"where": "Plateau."
+},
+"mcci": {
+"nameZh": "Musée des Civilisations de Côte d’Ivoire",
+"signal": "Un discret bâtiment colonial au Plateau, qui abrite masques, statues, poids à peser l’or et trônes de tous les groupes du pays.",
+"what": "Le musée national, fondé en 1942 comme centre artisanal de l’administration coloniale et rebaptisé musée des Civilisations en 1994. Une grande rénovation a commencé en 2024, avec un budget d’environ 2,2 milliards de francs CFA.",
+"why": "Si vous voulez voir réunis les objets des quatre aires culturelles, c’est ici.",
+"meaning": "Il s’inscrit aussi dans le débat mondial sur les restitutions : le retour des objets ivoiriens conservés dans les musées européens est une question d’actualité.",
+"use": "La première étape avec des invités asiatiques. Construisez ici la « grille de lecture », puis visitez les galeries d’art contemporain : vos invités verront le lien entre tradition et présent.",
+"bridge": "Comparez avec la portée politique des collections du musée national du Palais, et le débat mondial sur le retour des biens culturels.",
+"where": "Plateau ; vérifiez l’ouverture pendant la rénovation."
+},
+"fakhoury": {
+"nameZh": "Galerie Cécile Fakhoury",
+"signal": "Un espace blanc et épuré à Cocody, un accrochage aux standards internationaux ; collectionneurs, diplomates et artistes aux vernissages.",
+"what": "Galerie d’art contemporain ouverte à Abidjan en 2012, aujourd’hui présente à Abidjan, Dakar et Paris, et habituée des foires internationales comme 1-54 et Art Basel Miami Beach.",
+"why": "Elle a ouvert juste à la sortie de la crise de 2011, en pariant qu’Abidjan redeviendrait un centre de l’art ouest-africain, et elle a effectivement contribué à créer un marché local de collectionneurs.",
+"meaning": "C’est une porte d’entrée majeure qui aligne les artistes locaux sur les prix internationaux ; lorsque Ouattara Watts y a exposé en 2026, la Première dame l’a reçu personnellement.",
+"use": "Demander « Dans quelles foires cet artiste a-t-il exposé ? » fait plus connaisseur que demander le prix. Les vernissages sont un bon endroit pour rencontrer l’élite abidjanaise.",
+"bridge": "Comme une grande galerie de Taipei : née localement, elle construit la cote de ses artistes par les foires internationales.",
+"where": "Cocody ; expositions gratuites."
+},
+"donwahi": {
+"nameZh": "Fondation Donwahi",
+"signal": "Un haut mur rouge saisissant à Cocody, et derrière, trois villas épurées avec salles d’exposition, bibliothèque et salon.",
+"what": "Fondation d’art contemporain à but non lucratif créée en 2008 en mémoire de Charles Bauza Donwahi, ancien président de l’Assemblée nationale, aujourd’hui dirigée par Illa Ginette Donwahi.",
+"why": "Elle a été l’un des premiers lieux d’art à rouvrir après la crise, a montré la collection Sindika Dokolo et offert au peintre espagnol Antoni Clavé sa première exposition en Afrique.",
+"meaning": "Un cas typique de fortune familiale au service d’une plateforme artistique publique, et un lieu de sociabilité du monde de l’art abidjanais.",
+"use": "Sa présidente rappelle souvent que le cubisme de Picasso doit beaucoup aux masques ouest-africains : de quoi ouvrir une conversation sur l’influence de l’Afrique sur l’art moderne européen. Le salon est idéal pour s’asseoir avec des invités.",
+"bridge": "Comme les musées de fondations d’entreprise ou familiales en Asie.",
+"where": "Cocody, boulevard des Martyrs."
+},
+"guirandou": {
+"nameZh": "Galerie LouiSimone Guirandou",
+"signal": "À côté du Goethe-Institut, une galerie aménagée dans une villa avec piscine ; les expositions d’été présentent de jeunes artistes encore inconnus.",
+"what": "L’historienne de l’art Simone Guirandou-N’Diaye a fondé Arts Pluriels en 1991, l’une des premières galeries du pays ; en 2015, elle et sa fille Gazelle ont ouvert ce nouvel espace. Le nom associe ceux des parents de Gazelle, Louis et Simone.",
+"why": "Deux générations, mère et fille, couvrent trente ans de la scène des galeries d’Abidjan, de l’art traditionnel aux jeunes artistes contemporains.",
+"meaning": "Son exposition d’été « Découvertes » est une vitrine importante des artistes ouest-africains émergents.",
+"use": "L’histoire du nom de la galerie engage la conversation plus facilement que les œuvres. Venez ici acheter des artistes tant qu’ils sont encore abordables.",
+"bridge": "Comme une vieille galerie japonaise que la génération suivante oriente vers l’art contemporain.",
+"where": "Cocody Mermoz, à côté du Goethe-Institut ; ouvert du mardi au samedi."
+},
+"watts": {
+"nameZh": "Ouattara Watts (peintre)",
+"signal": "De grandes toiles abstraites avec chiffres, symboles, schémas cosmiques et collages de tissu, aux couleurs intenses et rituelles.",
+"what": "Né à Abidjan en 1957, il a rencontré Jean-Michel Basquiat à Paris et s’est installé à New York. C’est l’un des peintres ivoiriens vivants les plus reconnus à l’international.",
+"why": "Son œuvre réunit symboles ouest-africains, croyances spirituelles africaines et abstraction new-yorkaise : un pionnier de l’« artiste africain global ».",
+"meaning": "En 2026, son exposition personnelle a réuni pour la première fois des œuvres sur papier réalisées en Côte d’Ivoire, et la Première dame l’a reçu personnellement : signe que l’État considère ses artistes internationaux comme un soft power.",
+"use": "Son amitié avec Basquiat offre une porte d’entrée à tout le monde. Demandez ensuite d’où viennent les symboles de ses tableaux et laissez la galerie ou les collectionneurs raconter. Savoir poser de bonnes questions, c’est ce que font les initiés.",
+"bridge": "Comme Zao Wou-Ki pour le monde sinophone : célèbre dans une capitale artistique occidentale, portant toujours dans sa peinture la vision du monde de son pays.",
+"where": "Galerie Cécile Fakhoury."
+},
+"aboudia": {
+"nameZh": "Aboudia (peintre)",
+"signal": "Des figures aux grands yeux, entre dessin d’enfant et graffiti, avec collages de journaux et de bandes dessinées, foisonnantes et pleines d’énergie.",
+"what": "Peintre abidjanais dont le style vient du graffiti de rue et de la culture nouchi ; les œuvres réalisées dans une cave pendant la crise de 2011 l’ont rendu célèbre à l’international.",
+"why": "Il a porté sur la toile les années de crise et le regard des enfants des rues, témoignant du moment le plus chaotique d’une ville.",
+"meaning": "C’est le plus visible d’une nouvelle génération d’artistes ivoiriens sur le marché, et la preuve qu’une crise peut devenir un capital culturel.",
+"use": "On le compare souvent à Basquiat. Discuter de la pertinence de la comparaison est bien plus élégant que dire simplement qu’ils se ressemblent.",
+"bridge": "Comparez avec le street art et le pop art asiatiques, nés eux aussi du langage visuel de la rue.",
+"where": "Rotonde des Arts ; ventes d’art contemporain africain des grandes maisons de vente internationales."
+},
+"artweek": {
+"nameZh": "Abidjan Art Week",
+"signal": "Chaque année en avril, pendant une semaine, galeries, fondations et centres d’art de toute la ville ouvrent leurs expositions et organisent des rencontres en même temps, avec un final à Grand-Bassam.",
+"what": "Fondée par Yacouba Konaté, professeur de philosophie et directeur de la Rotonde des Arts. La première édition s’est tenue pendant la CAN 2024 ; 14 galeries ont participé en 2025, et la troisième édition a eu lieu du 7 au 11 avril 2026.",
+"why": "Abidjan veut transformer sa puissance économique d’après-crise en statut de capitale culturelle, en concurrence avec Dakar pour le titre de capitale de l’art ouest-africain.",
+"meaning": "Le milieu de l’art sénégalais a une boutade : « Abidjan a l’argent, mais Dakar a le goût. » L’Art Week est la réponse d’Abidjan.",
+"use": "Lancez la boutade pour ouvrir une conversation sur la rivalité entre les deux villes : vous passerez aussitôt pour un initié. L’Art Week est le meilleur moment pour rencontrer toute la scène artistique de la ville en une semaine.",
+"bridge": "Comme l’Art Week de Taipei ou de Hong Kong : une semaine qui relie tous les lieux d’art d’une ville.",
+"where": "Chaque avril ; Instagram @abjartweek."
+},
+"dakart": {
+"nameZh": "Biennale de Dakar (Dak’Art)",
+"signal": "Dakar en novembre et décembre : des expositions partout à la fois, dans l’ancien palais de justice, au musée des Civilisations noires et dans des lieux grands et petits de toute la ville, entre le IN officiel et le OFF indépendant.",
+"what": "Conçue en 1989 et organisée pour la première fois en 1990, c’est la plus ancienne grande biennale d’art contemporain d’Afrique. La 16e édition se tient du 19 novembre au 19 décembre 2026, sous la direction artistique de Morad Montazami, avec pour thème « (Anti)fragilité », l’art de la réparation.",
+"why": "Depuis Senghor, poète et premier président du pays, le Sénégal place la culture au cœur de l’identité nationale, et la biennale poursuit cette ligne.",
+"meaning": "C’est le rendez-vous le plus important du monde de l’art africain, et la confiance derrière la formule « Dakar a le goût ».",
+"use": "Connaître la différence entre IN et OFF, et savoir que l’édition 2024 a été reportée de six mois pour raisons politiques, vous classe parmi les initiés.",
+"bridge": "La Biennale de Venise de l’Afrique ; cette année, Dak’Art ouvre trois jours avant la clôture de la Biennale de Venise.",
+"where": "Dakar : musée des Civilisations noires, ancien palais de justice, musée de l’IFAN, etc."
+},
+"masa": {
+"nameZh": "MASA, le Marché des arts du spectacle africain",
+"signal": "En avril des années paires, les abords du Palais de la Culture à Treichville se remplissent de danseurs, de troupes de théâtre et de conteurs de nombreux pays, et de programmateurs en costume.",
+"what": "Manifestation panafricaine des arts de la scène organisée tous les deux ans depuis 1993, à la fois marché, forum professionnel et festival. La 14e édition s’est tenue du 11 au 18 avril 2026, avec des participants de 51 pays.",
+"why": "Ce qui manque aux compagnies africaines, ce n’est pas le talent mais les acheteurs et les réseaux de tournée. Le MASA a été conçu pour réunir en un seul lieu les programmateurs du monde entier.",
+"meaning": "Il montre que la Côte d’Ivoire veut être le marché des industries culturelles africaines, pas seulement l’hôte d’un festival. Prochaine édition en 2028.",
+"use": "Résumez la différence en une phrase : « Le MASA n’est pas qu’un festival, c’est un marché. » Pour qui veut amener des spectacles africains en Asie, c’est la semaine la plus importante.",
+"bridge": "Comme le Fringe d’Édimbourg doublé d’un marché des arts de la scène, avec une couche de diplomatie culturelle en plus.",
+"where": "Palais de la Culture, Treichville."
+},
+"femua": {
+"nameZh": "FEMUA, le Festival des musiques urbaines d’Anoumabo",
+"signal": "Au printemps, une grande scène se dresse dans un vieux quartier modeste de Marcory, et des stars africaines s’y produisent, le plus souvent gratuitement.",
+"what": "Fondé en 2008 par A’Salfo, chanteur de Magic System, à Anoumabo où il a grandi ; les recettes financent écoles et santé du quartier. La 18e édition, en 2026, accueillait Youssou N’Dour et Fatoumata Diawara.",
+"why": "Anoumabo était un village ébrié qui a perdu ses terres avec l’extension de la ville. Le festival a rendu la communauté de nouveau visible.",
+"meaning": "C’est un modèle de star qui rend à sa communauté, et une vitrine de la culture pop ivoirienne pour tout le continent.",
+"use": "L’essentiel n’est pas l’affiche mais « un festival de musique qui construit des écoles ». C’est ce dont les gens d’ici sont le plus fiers.",
+"bridge": "Comme une star qui rentre chez elle organiser un festival adossé à une fondation caritative.",
+"where": "Chaque printemps, autour d’Anoumabo à Marcory."
+},
+"abissa": {
+"nameZh": "Abissa, le nouvel an n’zima",
+"signal": "De fin octobre à début novembre, les rues de Grand-Bassam résonnent de tambours ; les hommes s’habillent en femmes et les femmes en hommes ; on critique ouvertement le roi et les officiels.",
+"what": "La fête traditionnelle du nouvel an des N’zima Kotoko. Elle commence quand le tambour sacré Edo N’Gbolé est sorti de la forêt et remis au roi, et dure environ deux semaines. Ses valeurs centrales sont le pardon, la réconciliation et l’unité.",
+"why": "Pendant la fête, chacun peut parler librement, y compris du roi et des officiels, pour vider les griefs de l’année et accueillir ensemble l’an neuf. Elle fonctionne comme une purification sociale.",
+"meaning": "Elle montre que la royauté akan est toujours vivante : roi, reine-mère et rituels coexistent avec l’État moderne.",
+"use": "Allez à Grand-Bassam entre fin octobre et début novembre pour la voir. Demandez avant de photographier et respectez les moments sacrés ; expliquez d’abord à vos invités l’idée de pardon et de critique pour qu’ils comprennent ce qu’ils voient.",
+"bridge": "Comme le « monde à l’envers » du carnaval européen, ou la façon dont les fêtes de temple à Taïwan soudent une communauté.",
+"where": "Places du Quartier France, Grand-Bassam."
+},
+"baoule": {
+"name": "Masques et statues baoulé",
+"nameZh": "Masques et statues baoulé",
+"signal": "Un long visage sculpté, fin, à l’expression calme et aux paupières baissées, coiffure et scarifications ciselées avec précision ; ou un couple assis, homme et femme.",
+"what": "Les Baoulé, du monde akan, sont connus pour leurs masques-portraits réalistes et élégants (utilisés dans les danses mblo) et leurs statues d’« époux de l’autre monde » (blolo bian / blolo bla). Les Baoulé croient que chacun a un conjoint dans l’autre monde (blolo) ; quand la vie va mal, un devin peut dire que ce conjoint est jaloux, et l’on sculpte pour lui une belle statue dont on prend soin.",
+"why": "Dans l’esthétique baoulé, le calme, la symétrie et le raffinement expriment la bonté morale et la beauté ; les masques-portraits sont parfois sculptés d’après une personne réelle.",
+"meaning": "Les masques ouest-africains ont été une source d’inspiration majeure pour l’art moderne européen du début du XXe siècle. Ils vivent aujourd’hui dans le design contemporain, comme les fermoirs en forme de masque doré de Loza Maléombho.",
+"use": "Quand vous achetez un masque, demandez son origine : la plupart de ceux du marché sont des objets décoratifs faits pour les touristes, et les pièces anciennes exigent une provenance et un permis d’exportation. Poser la question est déjà une marque de goût.",
+"bridge": "Comparez avec les masques du nô japonais : tous deux sont des masques rituels entrés ensuite dans les musées et sur le marché, et tous deux trouvent la beauté dans l’immobilité.",
+"where": "Musée des Civilisations ; autour de Bouaké et Sakassou, au centre."
+},
+"goldweights": {
+"nameZh": "Les poids à peser l’or akan",
+"signal": "Dans les musées ou chez les antiquaires, des boîtes de petites figurines de laiton grandes comme un pouce : crocodiles, oiseaux, vieillards, formes géométriques, chacune d’un poids différent.",
+"what": "Le monde akan utilisait la poudre d’or comme monnaie, et ces poids en laiton coulés à la cire perdue servaient à la peser. Beaucoup de formes correspondent à un proverbe.",
+"why": "L’or était le fondement de la royauté akan. Les poids étaient à la fois des outils de commerce et des « proverbes qu’on tient dans la main » : chaque transaction était aussi un échange de sagesse.",
+"meaning": "Ils réunissent commerce, métallurgie et sagesse orale akan, et expliquent l’adage selon lequel parler du roi, c’est parler de l’or.",
+"use": "Un petit poids fait un excellent cadeau et un bon sujet de conversation. Demandez « Quel proverbe cette forme représente-t-elle ? » pour ouvrir un riche échange. Là encore, sachez distinguer pièces neuves et anciennes.",
+"bridge": "Comparez avec le boulier et les sceaux gravés chinois, ou les netsuke japonais : de petits objets qui contiennent une grande culture.",
+"where": "Musée des Civilisations ; antiquaires sérieux."
+},
+"kita": {
+"nameZh": "Le pagne tissé kita",
+"signal": "Une étoffe épaisse faite de bandes d’une dizaine de centimètres assemblées, aux motifs géométriques alternés case par case, portée sur l’épaule des aînés lors des mariages.",
+"what": "L’étoffe tissée traditionnelle de Côte d’Ivoire, dont les Baoulé du centre et les Yacouba de la région de Man, à l’ouest, sont tous deux réputés. En 2023, le tissage traditionnel ivoirien a été inscrit au patrimoine culturel immatériel de l’UNESCO.",
+"why": "Un métier étroit ne tisse que des bandes étroites : l’étoffe est donc « assemblée ». Un beau pagne demande longtemps à tisser ; il est devenu symbole de richesse et de rang familial.",
+"meaning": "Porté lors des grandes occasions comme les mariages et la dot, il est un langage du statut, de la famille et du respect, bien au-dessus du pagne imprimé en prix comme en prestige.",
+"use": "Savoir distinguer le wax imprimé du kita tissé sépare le visiteur de l’initié : sur l’étoffe tissée, cherchez les coutures entre les bandes.",
+"bridge": "Comparez avec le kente du Ghana (du même monde akan) et le tissage Nishijin du Japon : des textiles cérémoniels haut de gamme.",
+"where": "Villages de tisserands autour de Tiébissou ; artisans de la région de Man."
+},
+"wax": {
+"nameZh": "Le pagne wax",
+"signal": "Des cotonnades imprimées aux couleurs vives partout, avec le nom de la marque imprimé sur la lisière ; lors des grands événements, des rues entières portent le même motif.",
+"what": "L’étoffe la plus importante de la vie quotidienne et cérémonielle en Afrique de l’Ouest. Uniwax, à Abidjan, en est la principale usine ; elle édite des motifs commémoratifs pour les grands événements, comme le cinquantenaire de l’indépendance, la CAN 2023 ou le pagne des champions de l’équipe nationale.",
+"why": "Le wax est né au XIXe siècle d’imitations industrielles néerlandaises du batik indonésien. Elles se vendaient mal en Indonésie, ont été écoulées en Afrique de l’Ouest et sont devenues le « tissu africain ». Les motifs ont des noms et des histoires : l’étoffe elle-même est un langage.",
+"meaning": "Des événements nationaux aux mariages et funérailles en famille, porter le même pagne signale l’appartenance et le soutien.",
+"use": "L’histoire du « tissu africain qui vient en fait d’Indonésie » marche à tous les coups avec des invités asiatiques. Invité à un mariage, demandez d’abord si les hôtes ont choisi un pagne « uniforme ».",
+"bridge": "Un lien direct avec le batik indonésien : une seule étoffe relie l’histoire commerciale de l’Asie, de l’Europe et de l’Afrique.",
+"where": "Grands marchés et boutiques Uniwax ; faites-le coudre sur mesure par un tailleur."
+},
+"senufo": {
+"nameZh": "Sénoufo : toiles peintes, calaos et société du Poro",
+"signal": "Une cotonnade grossière peinte aux teintures naturelles de silhouettes d’oiseaux, de poissons et de danseurs masqués ; un calao de bois sculpté au long bec, au gros ventre et aux ailes déployées.",
+"what": "Les Sénoufo sont le principal peuple du monde gur du Nord, autour de Korhogo. Leurs toiles peintes (toiles de Korhogo), leurs calaos et leurs masques sont souvent liés au Poro, une société secrète chargée de l’initiation masculine et de l’éducation traditionnelle.",
+"why": "Dans la cosmologie sénoufo, le calao est l’une des premières créatures, symbole de fécondité et de savoir. Beaucoup de motifs des toiles peintes viennent des rituels et des mythes.",
+"meaning": "La sculpture sénoufo est parmi l’art ivoirien le plus présent dans les musées occidentaux, et la toile peinte est l’ambassadrice culturelle la plus transportable du Nord.",
+"use": "Voir un calao et dire « c’est sénoufo, du Nord » le distingue du style baoulé du sud. Mais ne posez pas de questions sur les rites secrets du Poro.",
+"bridge": "Comparez avec le bogolan malien et la teinture à l’indigo japonaise ; la société secrète peut se comparer aux systèmes d’initiation d’ailleurs.",
+"where": "Ateliers de Korhogo, au nord ; marchés artisanaux d’Abidjan."
+},
+"dan": {
+"name": "Masques dan · échassiers de Man",
+"nameZh": "L’univers des masques dan / yacouba",
+"signal": "Un masque de bois sombre et lustré aux yeux ronds ou fendus ; dans les montagnes de l’Ouest, des danseurs sur des échasses de deux ou trois mètres qui tournoient dans les airs.",
+"what": "Les Dan (aussi appelés Yacouba) sont un peuple mandé des montagnes autour de Man, à l’ouest. Leurs masques sont considérés comme des incarnations des esprits de la forêt, chacun avec un rôle : justice, divertissement, transmission de messages. La danse des échassiers est l’un des spectacles les plus célèbres de l’Ouest.",
+"why": "Dans cet univers, le masque n’est pas un décor mais une présence vivante ; celui qui le porte est l’esprit lui-même.",
+"meaning": "Les montagnes de l’Ouest, avec cascades, ponts de lianes et sommets, comptent parmi les plus beaux paysages du pays, et c’est la région où la culture des masques est la mieux préservée.",
+"use": "Quand on vous dit « le masque est sorti », comprenez non pas « quelqu’un porte un masque », mais qu’un moment sacré a commencé. Parlez avec respect et demandez avant de photographier.",
+"bridge": "Comparez avec le kagura japonais : une fois le masque posé, le danseur est considéré dans le rituel comme la divinité elle-même, et non comme quelqu’un qui la joue.",
+"where": "Man et les villages alentour, à l’ouest ; plus facile à voir lors des fêtes."
+},
+"zaouli": {
+"nameZh": "Le zaouli, danse masquée gouro",
+"signal": "Un danseur au masque très coloré et à la jupe de raphia, le haut du corps presque immobile, les pieds trop rapides pour être suivis.",
+"what": "La danse masquée du peuple gouro, inscrite au patrimoine culturel immatériel de l’UNESCO en 2017.",
+"why": "Les Gouro appartiennent aux Mandé du Sud et vivent à l’ouest des Baoulé ; leurs masques mêlent traits animaux et humains, et le rythme vient des tambours et des flûtes.",
+"meaning": "L’une des performances traditionnelles les plus spectaculaires du pays, qui représente souvent la Côte d’Ivoire lors des cérémonies nationales.",
+"use": "Voyez-la une fois en vrai et vous comprendrez pourquoi on dit que les pieds vont trop vite pour l’œil.",
+"bridge": "Comparez avec les troupes des processions de temple à Taïwan, comme les Ba Jia Jiang : une performance physique exigeante lors des fêtes locales, porteuse de foi et d’identité collective.",
+"where": "Fêtes autour de Bouaflé et Zuénoula ; festivals comme le MASA."
+},
+"patheo": {
+"nameZh": "Le tailleur de Mandela",
+"signal": "Lors d’événements officiels, des dirigeants politiques et économiques africains en larges chemises à manches longues taillées dans du pagne imprimé, à la place du costume.",
+"what": "Né Pathé Ouédraogo au Burkina Faso en 1950, il arrive à Abidjan dans les années 1970 et passe de tailleur de rue à une marque présente dans une dizaine de pays africains, connue pour ses chemises en pagne.",
+"why": "En 1993, la chanteuse Miriam Makeba achète cinq de ses chemises à Abidjan pour les offrir à Nelson Mandela. Mandela les porte ensuite sur la scène internationale, donnant une légitimité politique à la « tenue officielle en tissu africain ». Le roi du Maroc et le président rwandais Kagame ont aussi porté ses créations.",
+"meaning": "Il incarne la confiance d’« Africains qui conçoivent la tenue officielle pour des Africains » ; une nouvelle génération de créateurs ivoiriens, comme Gilles Touré, le considère comme son mentor.",
+"use": "Pour une occasion qui exige une tenue formelle avec une touche africaine, une chemise Pathé’O est le choix le plus sûr. Racontez l’histoire de Mandela et Makeba : on saura que vous avez fait vos devoirs.",
+"bridge": "Comme le costume Mao ou la veste Tang pour les dirigeants chinois : un vêtement qui est une déclaration politique et culturelle.",
+"where": "Son atelier et sa boutique à Treichville."
+},
+"loza": {
+"nameZh": "Loza Maléombho (créatrice)",
+"signal": "Une veste nette fermée par un fermoir en forme de masque baoulé doré, issue d’une collection baptisée « Zaouli ».",
+"what": "Créatrice ivoiro-américaine qui fonde sa marque à New York en 2009 et revient à Abidjan en 2012 pour repartir de zéro. Beyoncé porte l’une de ses vestes dans le clip « Already » en 2020, et ses créations figurent dans les collections du V&A à Londres.",
+"why": "Elle trouvait que les symboles, textiles et esthétiques africains étaient absents de la mode internationale ; elle a choisi de rester à Abidjan et de créer à partir des symboles traditionnels.",
+"meaning": "Elle prouve qu’on peut acquérir une renommée mondiale sans quitter Abidjan, une référence pour la nouvelle génération de créatifs ivoiriens.",
+"use": "Tout le monde peut parler de Beyoncé ; il est plus raffiné d’évoquer comment le fermoir-masque transforme un objet rituel en accessoire du quotidien.",
+"bridge": "Comparez avec les créateurs asiatiques qui transforment les motifs traditionnels en haute couture : parler du présent à travers la tradition.",
+"where": "Son studio à Treichville ; Instagram."
+},
+"zouglou": {
+"nameZh": "Les musiques populaires ivoiriennes",
+"signal": "Dans un maquis, toute la salle reprend en chœur une chanson aux paroles drôles ; aux mariages, des gens couverts d’or dansent et lancent des billets.",
+"what": "Le zouglou naît en 1990 dans les cités universitaires de Yopougon, à Abidjan, et chante le quotidien avec humour et autodérision. Le coupé-décalé est une musique festive lancée au début des années 2000 par la diaspora ivoirienne de Paris, souvent avec étalage de richesse et billets lancés. En nouchi, le « gaou » de « Premier Gaou » désigne un naïf ou un débutant.",
+"why": "Le zouglou est né d’une époque de contestation étudiante et de crise économique, une façon de rire des difficultés ; le coupé-décalé est né des années de crise, opposant à la lourdeur la légèreté et le spectacle.",
+"meaning": "C’est le son d’Abidjan. « Premier Gaou » de Magic System (2000) a été un tube dans toute la francophonie et a porté la culture pop ivoirienne dans le monde.",
+"use": "Fredonner « Premier Gaou » rapproche instantanément. Bouger un peu quand le coupé-décalé passe au maquis fonctionne mieux que tout.",
+"bridge": "Le zouglou est comme la pop en taïwanais : une langue de tous les jours sur la vie de tous les jours, avec autodérision et chaleur.",
+"where": "Maquis, mariages, boîtes de nuit ; FEMUA."
+},
+"alpha": {
+"nameZh": "Alpha Blondy (chanteur de reggae)",
+"signal": "Des chauffeurs de taxi d’un certain âge écoutant un reggae aux paroles mêlant français, anglais et dioula, sur la paix, la corruption et l’unité africaine.",
+"what": "Né à Dimbokro, au centre, en 1953, l’un des chanteurs de reggae les plus connus d’Afrique, célèbre pour « Brigadier Sabari » et « Jerusalem ».",
+"why": "Le reggae est devenu en Afrique de l’Ouest un vecteur de commentaire politique. Son premier succès, « Brigadier Sabari », raconte qu’il a été battu lors d’une rafle policière à Abidjan, considéré comme la première fois qu’un chanteur ouest-africain dénonçait ouvertement la violence policière ; il a ensuite critiqué en chanson la corruption et la guerre civile.",
+"meaning": "Il a fait de la Côte d’Ivoire la « capitale africaine du reggae » et n’a cessé d’appeler à la paix pendant les années de crise.",
+"use": "Parler de lui avec des Ivoiriens de plus de 40 ans, c’est parler de leur jeunesse.",
+"bridge": "Comme Lo Ta-yu à Taïwan : un musicien populaire qui est aussi un commentateur social.",
+"where": "Ses concerts ; bars reggae d’Abidjan."
+},
+"drogba": {
+"name": "Les Éléphants · Didier Drogba",
+"nameZh": "Les Éléphants et Drogba",
+"signal": "Les jours de match, toute la ville s’habille en orange, blanc et vert ; les supporters vous racontent très sérieusement qu’un joueur a un jour aidé à arrêter une guerre civile par un appel télévisé.",
+"what": "Le 8 octobre 2005, après la qualification pour la Coupe du monde, le capitaine Drogba s’agenouille avec ses coéquipiers dans le vestiaire et appelle en direct à la télévision les deux camps de la guerre civile à déposer les armes ; quelques jours plus tard, un cessez-le-feu est conclu. La Côte d’Ivoire a remporté la CAN 2015 et, pays hôte, l’édition 2023 début 2024.",
+"why": "Dans un pays divisé par la politique et l’ethnicité, l’équipe nationale est l’un des rares moments où tout le monde est du même côté.",
+"meaning": "Le football soude l’identité nationale ; le titre de 2024 a été vu comme le symbole d’un renouveau national.",
+"use": "Un sujet sûr avec tout le monde. Connaître l’appel de 2005 permet de passer du football à l’histoire du pays sans toucher aux positions politiques.",
+"bridge": "Comme le baseball à Taïwan : les matchs de l’équipe nationale créent un sentiment commun au-delà des clivages politiques.",
+"where": "N’importe quel maquis, les jours de match."
+},
+"kourouma": {
+"nameZh": "Deux géants de la littérature ivoirienne",
+"signal": "Dans les bibliothèques de l’élite abidjanaise, un livre intitulé Les Soleils des indépendances ; le nom complet du palais national de la culture à Treichville est « Palais de la Culture Bernard Binlin-Dadié ».",
+"what": "Ahmadou Kourouma (1927–2003) a écrit Les Soleils des indépendances (1968, d’abord publié à Montréal) sur la désillusion après l’indépendance, et Allah n’est pas obligé (2000, prix Renaudot) sur les enfants-soldats. Bernard Dadié (1916–2019), né à Assinie, écrivain et dramaturge, ministre de la Culture de 1977 à 1986, surnommé le « père de la littérature ivoirienne », est l’auteur de Climbié et d’Un Nègre à Paris.",
+"why": "Kourouma a fait entrer le rythme et la pensée malinké dans le français et a changé la littérature africaine d’expression française ; Dadié, par sa longue vie et son œuvre, a été le témoin d’un siècle entier, de la colonisation à l’indépendance.",
+"meaning": "La littérature transmet les espoirs et les désillusions de l’après-indépendance avec plus de chaleur que les livres d’histoire.",
+"use": "Dire, lors d’un dîner de l’élite, que vous lisez Kourouma est un signal culturel fort.",
+"bridge": "Comparez avec Pai Hsien-yung ou Huang Chun-ming : la transformation d’une société racontée à travers des gens ordinaires.",
+"where": "Librairies d’Abidjan (comme la Librairie de France) ; bouquinistes en France."
+},
+"chocolatier": {
+"nameZh": "Le chocolatier ivoirien Axel Emmanuel",
+"signal": "Une rangée de tablettes artisanales aux emballages imprimés de motifs de pagne, avec la région du cacao indiquée : « Daloa ».",
+"what": "Marque de chocolat fondée par l’ancien banquier Axel Emmanuel Gbaou, qui achète ses fèves à des coopératives locales et fabrique son chocolat dans son atelier de Cocody ; elle a été primée au Salon de l’agriculture de Paris en 2022.",
+"why": "Le premier producteur mondial de cacao n’a longtemps eu presque aucun chocolat haut de gamme local. Il incarne une nouvelle génération qui garde le « bean to bar » au pays.",
+"meaning": "Le symbole du passage du cacao de matière première à marque, soutenu et promu à l’étranger par le Conseil du Café-Cacao.",
+"use": "Le meilleur cadeau pour des invités asiatiques. Une phrase suffit : « La plupart du chocolat du monde commence ici, mais le chocolat fin local ne fait que commencer. »",
+"bridge": "Comparez avec la culture du chocolat artisanal au Japon, et le café de spécialité taïwanais qui passe de la ferme à la marque.",
+"where": "Atelier et boutique à Cocody ; certains supermarchés."
+},
+"maquis": {
+"nameZh": "Le maquis et l’attiéké-poisson braisé",
+"signal": "Des chaises en plastique au bord de la route le soir, du charbon et des poissons entiers braisés avec une assiette de grains blanc cassé un peu acidulés, et du coupé-décalé à fond dans les enceintes.",
+"what": "Le maquis est le restaurant à ciel ouvert ivoirien ; sa signature est le poisson ou le poulet braisé avec de l’attiéké (semoule de manioc fermentée), sauce pimentée, oignon et tomate crus. La version de rue, thon frit et attiéké, s’appelle garba. En décembre 2024, le savoir-faire de l’attiéké a été inscrit au patrimoine culturel immatériel de l’UNESCO.",
+"why": "L’attiéké est une tradition des peuples lagunaires du sud, préparé et vendu surtout par les femmes ; « maquis » voulait dire « brousse » avant de désigner un restaurant populaire.",
+"meaning": "Le maquis est le centre de la vie sociale abidjanaise, où patrons, fonctionnaires et étudiants s’assoient côte à côte. Connaître les maquis en dit plus sur votre ancrage local que connaître les cinq-étoiles.",
+"use": "Un bon repas au maquis marque souvent plus longtemps des invités asiatiques qu’un grand restaurant. Mangez de la main droite et commandez une bière locale.",
+"bridge": "Comme les restaurants re-chao de Taïwan ou un izakaya japonais : la vraie sociabilité se passe là, pas dans les restaurants guindés.",
+"where": "Adresses réputées à Yopougon, Marcory et Cocody ; demandez à un ami de vous emmener à son maquis habituel."
+},
+"kedjenou": {
+"nameZh": "Trois mots clés de la cuisine familiale ivoirienne",
+"signal": "Une canari scellée apportée à table, avec poulet et légumes mijotés en un bouillon riche ; une boule collante de foutou jaune ou blanc avec une sauce graine rouge ; des bananes plantain qui frient dans une poêle au bord de la route.",
+"what": "Le kedjenou est un poulet mijoté presque sans eau dans une canari (jarre en terre) scellée, que l’on secoue de temps en temps pendant la cuisson ; le nom viendrait du mot baoulé pour « secouer ». Le foutou est de la banane plantain ou de l’igname pilée en boule, servie avec une sauce graine (sauce aux noix de palme) ou une sauce arachide. L’alloco, c’est la banane plantain frite, souvent avec piment et poisson braisé.",
+"why": "Ces plats correspondent à des aires culturelles différentes : plantain, igname et noix de palme de la forêt du sud, céréales et arachide de la savane du nord. On attribue généralement le kedjenou aux Baoulé du centre.",
+"meaning": "Manger le bon plat de la bonne façon est une marque de respect pour la culture de vos hôtes.",
+"use": "Invité chez quelqu’un, demandez « De quelle région vient cette recette ? » : vos hôtes seront ravis de raconter. Prenez un petit morceau de foutou de la main droite et trempez-le dans la sauce.",
+"bridge": "Comparez avec les ragoûts en marmite de terre asiatiques et les galettes de riz pilé comme le mochi : le même duo mijoté lent et féculent pilé.",
+"where": "Maquis, familles, restaurants locaux."
+},
+"bangui": {
+"nameZh": "Vin de palme, jus de gingembre et bissap",
+"signal": "Des boissons laiteuses légèrement pétillantes vendues au bord de la route ; du jus de gingembre brûlant en sachet plastique ; du bissap glacé rouge profond.",
+"what": "Le bangui est le vin de palme, fermenté naturellement à partir de la sève, souvent appelé boisson nationale ; le gnamakoudji est le jus de gingembre frais ; le bissap est l’infusion d’hibiscus. Ces deux derniers sont les boissons sans alcool les plus courantes. Distillé, le vin de palme devient l’alcool koutoukou.",
+"why": "Le vin de palme compte dans les rituels du sud : aux mariages, funérailles et réconciliations, on en verse souvent d’abord à terre pour les ancêtres avant de le partager. Jus de gingembre et bissap sont des boissons du quotidien dans toute l’Afrique de l’Ouest.",
+"meaning": "Ce que l’on boit est un langage social : le bangui dit la proximité avec le village et la tradition ; le champagne importé dit l’ostentation.",
+"use": "Pour des invités qui ne boivent pas d’alcool, un gnamakoudji ou un bissap est à la fois local et attentionné. Avant de boire le bangui, votre hôte peut en verser un peu à terre pour les ancêtres (une libation) : ne riez pas, attendez simplement en silence.",
+"bridge": "Comparez avec le vin de millet des rituels autochtones de Taïwan.",
+"where": "Villages, maquis, étals de rue."
+},
+"assinie": {
+"nameZh": "Assinie, la plage du week-end de l’élite",
+"signal": "Le vendredi après-midi, les voitures de luxe d’Abidjan filent vers l’est ; l’Atlantique d’un côté, la lagune de l’autre, villas et resorts entre les deux.",
+"what": "Une étroite presqu’île à environ 90 km à l’est d’Abidjan, entre l’Atlantique et la lagune Aby, lieu de week-end de l’élite abidjanaise et des expatriés. Le point de rencontre de la lagune et de la mer s’appelle La Passe.",
+"why": "Les plages d’Abidjan ont de grosses vagues et se prêtent mal à la baignade, alors que le côté lagune d’Assinie est calme et privé.",
+"meaning": "« Le week-end à Assinie » marque la vie des classes aisées abidjanaises, et c’est un lieu de sociabilité et d’affaires informelles. C’est aussi le lieu de naissance de l’écrivain Bernard Dadié, et l’endroit où missionnaires et commerçants français se sont installés pour la première fois à la fin du XVIIe siècle.",
+"use": "Être invité dans une villa à Assinie pour le week-end signifie que vous êtes « dans le cercle ». Apportez un cadeau original, du thé de Taïwan par exemple.",
+"bridge": "Comme Kenting pour Taipei, ou Hayama et Karuizawa pour Tokyo : un week-end aisé non loin de la ville.",
+"where": "À l’est d’Abidjan, via Grand-Bassam."
+},
+"parks": {
+"nameZh": "Deux parcs nationaux classés au patrimoine mondial",
+"signal": "Dans la forêt tropicale du sud-ouest, des chimpanzés cassent des noix avec des pierres ; dans la savane du nord-est, des rivières serpentent à travers de vastes prairies.",
+"what": "Le parc national de Taï (UNESCO, 1982) est l’une des dernières grandes forêts primaires d’Afrique de l’Ouest ; ses chimpanzés choisissent des pierres comme marteaux et enclumes pour casser des noix, un site de référence pour l’étude de l’usage d’outils chez les animaux. Le parc national de la Comoé (inscrit en 1983), d’environ 11 500 km², est le plus grand parc national d’Afrique de l’Ouest ; placé sur la liste du patrimoine mondial en péril après la guerre civile, il en a été retiré en 2017.",
+"why": "La couverture forestière ivoirienne a fortement reculé à cause de la cacaoculture, et ces deux parcs sont ses derniers trésors écologiques.",
+"meaning": "Ils sont le contrepoint du débat cacao-forêt, et recèlent un potentiel d’écotourisme.",
+"use": "Avec des invités sensibles à la durabilité, parlez des recherches sur les chimpanzés de Taï et du prix que la forêt paie au cacao. Les visites guidées doivent être organisées à l’avance.",
+"bridge": "Comme Taroko ou le Yushan à Taïwan : les cartes de visite naturelles du pays.",
+"where": "Sud-ouest (Taï), nord-est (Comoé) ; tous deux à organiser à l’avance."
+},
+"b01": {
+"name": "Les quatre aires culturelles",
+"nameZh": "Comment plus de 60 ethnies se répartissent en quatre familles",
+"era": "Chapitre 1 · Les peuples",
+"signal": "Dans un même pays, les masques du sud sont finement réalistes, les sculptures du nord abstraites et puissantes, les masques de l’ouest sombres et mystérieux. L’un s’appelle Ouattara, un autre Kouassi, un autre Gbagbo.",
+"what": "La Côte d’Ivoire compte plus de 60 ethnies, que les chercheurs regroupent généralement en quatre aires culturelles : les Akan du sud-est et du centre (Baoulé, Agni, N’zima, etc.), les Krou du sud-ouest (Bété, Dida, Wè, etc.), les Mandé du nord et de l’ouest (Malinké/Dioula au nord ; Dan/Yacouba et Gouro à l’ouest), et les peuples gur ou voltaïques du nord (Sénoufo, Lobi, Koulango).",
+"why": "Les frontières ont été tracées par les colonisateurs, mais les peuples les traversent : les Akan s’étendent au Ghana, les Mandé au Mali et en Guinée, les Sénoufo au Burkina Faso et au Mali. Pour comprendre un objet, demandez-vous d’abord à quelle aire culturelle il appartient, et non s’il est « ivoirien ».",
+"meaning": "Cette carte est le point de départ pour lire tout le reste. Masques, étoffes, musiques, fêtes, noms de famille et même la carte politique peuvent d’abord être situés dans l’une de ces quatre aires.",
+"use": "Un nom indique souvent une origine. Les noms de jour comme Kouassi, Kouadio ou Yao viennent généralement des Akan ; Ouattara, Coulibaly, Traoré et Diabaté plutôt du nord mandé/dioula. Évoquez-le légèrement, par curiosité, et jamais comme une étiquette.",
+"bridge": "Comme les communautés hoklo, hakka, arrivées après 1949 et autochtones de Taïwan : un pays, plusieurs langues, cuisines et rituels, chacun relié par-delà la mer ou une frontière à un autre lieu."
+},
+"b02": {
+"name": "La légende d’Abla Pokou",
+"nameZh": "La reine Pokou et la naissance des Baoulé",
+"era": "Chapitre 2 · XVIIIe siècle",
+"signal": "Quand les Ivoiriens racontent l’époque d’avant la nation, ils évoquent presque toujours une reine qui sacrifia son propre fils pour son peuple. Le nom Baoulé viendrait de ce moment.",
+"what": "Selon la légende, au XVIIIe siècle, une branche des Akan quitta l’actuel Ghana après une querelle de succession, conduite vers l’ouest par la reine Abla Pokou. Acculée au fleuve Comoé par ses poursuivants, elle offrit son fils à l’esprit du fleuve, et son peuple traversa sain et sauf. « Ba-ou-li » signifierait « l’enfant est mort », et le groupe prit dès lors le nom de Baoulé.",
+"why": "C’est le mythe fondateur des Baoulé, et il explique pourquoi les populations du centre ivoirien sont si proches des Ashanti du Ghana par la langue, la royauté et la culture de l’or.",
+"meaning": "Les Baoulé sont l’un des plus grands groupes du pays, et le premier président, Houphouët-Boigny, était baoulé. Le récit fait partie de la narration nationale, repris dans les manuels scolaires, le théâtre et les romans.",
+"use": "Évoquez Abla Pokou avec un ami baoulé : il sera surpris que vous la connaissiez. Racontez-la avec respect : c’est un récit d’origine sacré, pas une curiosité.",
+"bridge": "Un mythe fondateur de « migration et sacrifice », comparable aux légendes fondatrices de nombreuses cultures : le sacrifice d’une personne donne naissance à tout un peuple."
+},
+"b03": {
+"name": "L’empire de Kong et le réseau marchand dioula",
+"nameZh": "Routes commerciales du Nord, islam et mosquées de terre",
+"era": "Chapitre 3 · XVIIIe–XIXe siècles",
+"signal": "Les villes du Nord ont des mosquées de terre hérissées de pieux de bois ; beaucoup de commerçants des marchés parlent dioula ; Ouattara est un nom de famille courant dans le Nord.",
+"what": "Au début du XVIIIe siècle, la famille Ouattara fonde l’État de Kong dans le Nord, plaque tournante du commerce de la kola, de l’or, des étoffes et du sel. Les marchands dioula, de langue mandé, parcourant les routes du fleuve Niger à la forêt, ont porté vers le sud l’islam et l’architecture de terre de style soudanais. Kong a été détruite par Samory Touré en 1897.",
+"why": "Le Nord n’a jamais été une « périphérie ». C’était l’extrémité sud du réseau transsaharien : la kola montait des forêts du sud vers le nord, tandis que le sel, les étoffes et le savoir islamique descendaient.",
+"meaning": "En 2021, huit mosquées de style soudanais du Nord ont été inscrites au patrimoine mondial de l’UNESCO, signe du métissage des cultures sénoufo et malinké. Le dioula reste la langue commune du commerce sur les marchés de tout le pays.",
+"use": "Dans le Nord ou avec des commerçants dioula, parler de Kong et des mosquées de terre crée plus de complicité que parler d’Abidjan. La kola reste un cadeau courant lors d’une visite aux aînés.",
+"bridge": "Comme le terminus sud des routes de la soie : les marchands apportaient religion, architecture et langue avec leurs marchandises."
+},
+"b04": {
+"name": "L’histoire des quatre capitales",
+"nameZh": "Grand-Bassam → Bingerville → Abidjan → Yamoussoukro",
+"era": "Chapitre 4 · 1893–1983",
+"signal": "La capitale officielle est Yamoussoukro, pourtant présidence, ministères, ambassades et sièges d’entreprises sont presque tous à Abidjan ; Grand-Bassam et Bingerville gardent des bâtiments coloniaux défraîchis.",
+"what": "Sous la colonisation française, la capitale fut d’abord Grand-Bassam (1893). Après la fièvre jaune, elle monta sur les hauteurs de Bingerville (1900), puis passa en 1934 à Abidjan, qui avait un port. En 1983, Houphouët-Boigny fit de sa ville natale, Yamoussoukro, la capitale officielle, mais le vrai centre politique et économique resta Abidjan.",
+"why": "Chaque déplacement reflète la priorité de son époque : d’abord le commerce côtier, puis la santé publique, puis un port en eau profonde et le chemin de fer, enfin le symbole politique et le lieu de naissance du président.",
+"meaning": "Un parcours Grand-Bassam, Bingerville, Abidjan, Yamoussoukro, c’est l’histoire moderne en miniature.",
+"use": "Quand vous emmenez des invités à Grand-Bassam ou Bingerville, reliez tout en une phrase : « C’était autrefois la capitale, jusqu’à ce que… ». La visite prend aussitôt de la profondeur.",
+"bridge": "Comme le déplacement du centre politique de Taïwan de Tainan à Taipei, ou les capitales construites de toutes pièces comme Brasília et Naypyidaw."
+},
+"b05": {
+"name": "Houphouët-Boigny et le « miracle ivoirien »",
+"nameZh": "Le père de la nation, le cacao et l’assurance moderniste",
+"era": "Chapitre 5 · 1960–1980",
+"signal": "Le Plateau, à Abidjan, aligne d’audacieux bâtiments modernes des années 1960–70 : La Pyramide, l’Hôtel Ivoire, des tours sur la lagune. De nombreuses institutions, ponts et universités portent le nom de Félix Houphouët-Boigny.",
+"what": "Félix Houphouët-Boigny, planteur de cacao baoulé, médecin et homme politique, a été président de l’indépendance en 1960 à sa mort en 1993. Les exportations de café et de cacao et des liens étroits avec la France ont porté une forte croissance dans les années 1960 et 1970, le « miracle ivoirien », et Abidjan fut surnommée « le Manhattan de l’Afrique ».",
+"why": "Quand les cours du cacao se sont effondrés dans les années 1980, une crise de la dette a suivi et le miracle s’est estompé. Mais les bâtiments, les hôtels et l’échelle urbaine de cette époque forment toujours l’ossature d’Abidjan.",
+"meaning": "La plupart des bâtiments « grandioses » que vous voyez à Abidjan sont les produits de cette époque optimiste. Une fois que vous le savez, vous lisez à la fois l’assurance et la nostalgie de la ville.",
+"use": "Montrez La Pyramide ou l’Hôtel Ivoire et dites : « C’est l’architecture du miracle ivoirien. » Ajoutez qu’Abidjan a eu une patinoire et un centre de conférences international. C’est la meilleure façon d’ouvrir une visite de la ville.",
+"bridge": "Comme le miracle économique taïwanais et ses Dix Grands Travaux, ou le récit fondateur de Singapour : un dirigeant fort, une période de forte croissance et un ensemble de bâtiments symboles."
+},
+"b06": {
+"name": "L’économie du cacao",
+"nameZh": "Le premier producteur mondial de cacao",
+"era": "Chapitre 6 · La ligne de vie",
+"signal": "Sur les routes de l’ouest et du centre, des fèves de cacao sèchent au bord de la route et des camions chargés de sacs passent, mais les supermarchés proposent peu de marques locales de chocolat haut de gamme.",
+"what": "La Côte d’Ivoire est le premier producteur mondial de cacao, cultivé surtout par des centaines de milliers de petits planteurs de la zone forestière. L’État fixe le prix bord-champ par le Conseil du Café-Cacao (CCC). Depuis des décennies, la majeure partie des fèves est exportée vers l’Europe pour transformation.",
+"why": "Le cacao a nourri le miracle ivoirien et allumé la mèche de la crise : quand les cours mondiaux bougent, les finances et la politique du pays bougent avec eux.",
+"meaning": "Le cacao façonne les finances publiques, la vie rurale et les migrations (beaucoup d’ouvriers agricoles viennent du Burkina Faso et du Mali), et il est lié à des enjeux internationaux comme le travail des enfants et la déforestation. Fabriquer du chocolat sur place est aujourd’hui le symbole d’une montée dans la chaîne de valeur.",
+"use": "Le prix du cacao et la transformation locale sont un sujet sûr et substantiel avec les gens d’affaires. Offrir du chocolat artisanal local à des invités asiatiques est la façon idéale de raconter cette histoire.",
+"bridge": "Comme le sucre autrefois à Taïwan, ou le café en Éthiopie : une seule culture qui façonne l’économie et la société de tout un pays."
+},
+"b07": {
+"name": "Les années de crise",
+"nameZh": "Du débat sur l’« ivoirité » à la réconciliation de 2011",
+"era": "Chapitre 7 · 1993–2011",
+"signal": "Les plus de 40 ans parlent souvent de « la crise » ; certaines œuvres d’art regorgent d’images de guerre ; lors des dîners, chacun évite discrètement certains sujets politiques.",
+"what": "Après la mort d’Houphouët-Boigny en 1993, le débat sur l’« ivoirité », sur qui serait un « vrai Ivoirien », s’est durci. La guerre civile éclate en 2002 et le pays reste coupé entre nord et sud pendant des années ; une crise post-électorale suit en 2010–2011. Depuis 2011, le pays est entré dans une phase de reconstruction et de forte croissance.",
+"why": "Des questions entremêlées d’ethnicité, de religion, de foncier et de migrations, ainsi que la répartition de la richesse cacaoyère, ont rendu les divisions politiques particulièrement aiguës.",
+"meaning": "Cette période a façonné la mémoire d’une génération et inspiré beaucoup d’art (Aboudia, par exemple). L’organisation de la CAN 2024 a été largement perçue comme le signe que le pays s’était relevé.",
+"use": "Considérez-la comme un arrière-plan pour comprendre, pas comme un sujet à lancer. Si quelqu’un l’aborde, écoutez sans prendre parti. Dans le milieu de l’art, la façon dont les œuvres répondent à la crise est une entrée sûre et réfléchie.",
+"bridge": "Comparable à toute société passée par la division et la justice transitionnelle : les souvenirs sont encore vifs, et chacun a appris ce qu’il vaut mieux taire."
+},
+"b08": {
+"name": "Le nouchi",
+"nameZh": "La langue de la rue abidjanaise",
+"era": "Chapitre 8 · Culture urbaine",
+"signal": "Soudain, vous ne comprenez plus le français des jeunes : « On dit quoi ? », « Y’a pas drap », « C’est comment ? ». Les mêmes expressions mêlées apparaissent sur les panneaux publicitaires.",
+"what": "Le nouchi est une langue mixte apparue chez les jeunes des rues d’Abidjan dans les années 1970 et 1980. Elle repose sur le français, avec des mots du dioula, du baoulé, du bété et d’autres langues, ainsi que de l’anglais.",
+"why": "Dans une ville de plus de 60 ethnies, les jeunes avaient besoin d’une langue commune urbaine qui n’appartienne à aucun groupe.",
+"meaning": "Le nouchi est passé d’argot marginal à composante de l’identité nationale. Il traverse le zouglou, le coupé-décalé et la publicité, et il signe l’Abidjanais.",
+"use": "Quelques mots de nouchi réchauffent instantanément une conversation au maquis ou en taxi. Ne l’utilisez pas en contexte formel, et n’en faites pas trop au point de singer.",
+"bridge": "Comme le mandarin à l’accent taïwanais ou le mélange cantonais-anglais de Hong Kong : il exprime une identité urbaine, pas seulement une façon de parler."
+},
+"b09": {
+"name": "L’ombre de la France et une scène d’affaires plurielle",
+"nameZh": "Le franc CFA, l’école française et les commerçants libanais",
+"era": "Chapitre 9 · Qui est là",
+"signal": "La monnaie est le franc CFA ouest-africain (XOF) ; l’élite parle avec l’accent parisien et passe ses vacances en France ; beaucoup de supermarchés, quincailleries et restaurants sont tenus par des familles libanaises ; les enseignes chinoises se multiplient sur les nouveaux chantiers.",
+"what": "Depuis l’indépendance, la Côte d’Ivoire entretient des liens étroits avec la France en matière de monnaie, d’éducation, de défense et d’affaires. La communauté libanaise commerce ici depuis le début du XXe siècle et tient encore une grande part du commerce de détail et de gros ; ces dernières années, les capitaux chinois, indiens, turcs et marocains sont de plus en plus actifs.",
+"why": "L’héritage colonial et une orientation pro-française après l’indépendance ont fait entrer l’influence française dans la vie quotidienne, tandis qu’une économie commerçante ouverte a attiré vague après vague de marchands étrangers.",
+"meaning": "Savoir qui fait quel commerce permet de lire la carte des affaires d’Abidjan, et montre quel rôle vous pouvez jouer en tant qu’Asiatique.",
+"use": "Travailler avec des entreprises libanaises est souvent la voie la plus rapide pour faire des affaires à Abidjan. Aux dîners de l’élite, la culture française (littérature, vin, Paris) est la langue commune.",
+"bridge": "Comme Hong Kong et la Grande-Bretagne, ou la scène d’affaires plurielle de Singapour : une langue et des institutions coloniales, plus des réseaux marchands répartis selon les communautés."
+},
+"b10": {
+"name": "La carte religieuse",
+"nameZh": "Un nord musulman, un sud chrétien et des traditions vivantes",
+"era": "Chapitre 10 · La foi",
+"signal": "L’aube dans le Nord s’accompagne de l’appel à la prière ; les églises du Sud sont pleines le dimanche ; des fidèles harristes en blanc se réunissent au bord de la mer ; beaucoup de familles chrétiennes honorent encore leurs ancêtres.",
+"what": "L’islam domine au nord, le catholicisme, le protestantisme et les églises évangéliques au sud, à côté de religions nées sur place comme l’Église harriste, issue de la prédication côtière du prophète William Wadé Harris dans les années 1910. Croyances traditionnelles et culte des ancêtres coexistent avec toutes.",
+"why": "L’islam est arrivé par les routes commerciales du Nord, le christianisme a débarqué sur la côte avec la colonisation et les écoles missionnaires, et les deux se sont rencontrés au centre.",
+"meaning": "La plupart du temps, les religions coexistent paisiblement ; mariages mixtes et visites lors des fêtes de l’autre sont courants. Pourtant, en période de mobilisation politique, la religion a aussi été utilisée comme ligne de fracture.",
+"use": "Adaptez vos invitations pendant le ramadan, habillez-vous plus sobrement dans le Nord, et à la basilique de Yamoussoukro parlez d’architecture plutôt que de foi. Tout cela fait partie du bon goût.",
+"bridge": "Comme la vie religieuse à Taïwan : bouddhisme, taoïsme, religion populaire et christianisme côte à côte, souvent mêlés dans la pratique quotidienne."
+},
+"b11": {
+"name": "Le calendrier des fêtes",
+"nameZh": "Quand aller où",
+"era": "Chapitre 11 · Le rythme de l’année",
+"signal": "Parfois toute la ville se vide d’un coup (chacun est rentré au village pour Paquinou ou la fête des ignames) ; parfois les rues s’emplissent de tambours et de processions (l’Abissa à Grand-Bassam).",
+"what": "Un calendrier approximatif : en mars–avril, la fête du Dipri (Gomon), Paquinou (le retour au village des Baoulé à Pâques), le FEMUA, l’Abidjan Art Week et le MASA (années paires) ; d’août à octobre, la saison des fêtes des ignames ; de fin octobre à début novembre, l’Abissa à Grand-Bassam ; en novembre–décembre, la Biennale de Dakar (Dak’Art, du 19 novembre au 19 décembre 2026).",
+"why": "Les fêtes traditionnelles suivent le calendrier agricole (la récolte des ignames, par exemple), tandis que les événements artistiques modernes se tiennent surtout en saison sèche, plus facile à organiser.",
+"meaning": "Les fêtes affichent l’identité et les liens sociaux : qui rentre au village, qui paie, et qui s’assoit à côté du roi, tout cela envoie des messages.",
+"use": "Consultez ce calendrier avant de planifier le séjour d’un invité. Emmener ses invités à la bonne fête au bon moment, c’est l’hospitalité à son meilleur.",
+"bridge": "Comme le pèlerinage de Mazu à Taïwan ou les matsuri japonais : religion, communauté et tourisme entremêlés."
+},
+"b12": {
+"name": "Côte d’Ivoire et Ghana",
+"nameZh": "Un même monde akan, deux destins coloniaux",
+"era": "Chapitre 12 · Voisins",
+"signal": "Le kita ressemble beaucoup au kente ; les bijoux en or baoulé et ashanti parlent la même langue ; pourtant l’un des pays parle français et l’autre anglais, et ils plaisantent pour savoir lequel est le meilleur.",
+"what": "La culture akan chevauche la frontière. Le Ghana, colonie britannique, est indépendant depuis 1957 ; la Côte d’Ivoire, française, depuis 1960. Ce sont les premier et deuxième producteurs mondiaux de cacao, ensemble environ 60 % de la production mondiale.",
+"why": "Une frontière coloniale a coupé une même aire culturelle en deux, et les deux pays ont ensuite suivi des voies différentes en matière de langue, de droit et de politique.",
+"meaning": "Chacun est pour l’autre le point de référence le plus important : ils coordonnent leur politique cacaoyère et sont à la fois rivaux et frères sur le plan culturel.",
+"use": "Savoir expliquer le lien entre kita et kente, entre Baoulé et Ashanti, fait de vous, dans les deux pays, quelqu’un qui « connaît vraiment l’Afrique de l’Ouest ».",
+"bridge": "Comme la Malaisie et l’Indonésie, toutes deux du monde malais : une même base culturelle partagée par les colonisateurs britanniques et néerlandais, chacune avec sa langue officielle et sa voie, mais partageant encore cuisine, costume et traditions royales."
+}
+}

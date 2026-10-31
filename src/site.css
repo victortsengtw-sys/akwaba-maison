@@ -192,14 +192,14 @@ footer a{text-decoration:none;border-bottom:1px solid currentColor}
 }
 @media(max-width:899px) and (max-height:660px){.hero .id>p,.hero .id .tag{display:none}.hero .id>svg{width:clamp(38px,8svh,56px)}}
 /* English edition: Latin text needs tighter tracking than Chinese */
-html[lang="en"] .zhname{letter-spacing:.18em;padding-left:.18em;font-family:"Jost",sans-serif;font-weight:500}
-html[lang="en"] .t{letter-spacing:0}
-html[lang="en"] body{font-family:"Noto Serif TC",Georgia,serif}
-html[lang="en"] nav.main a{letter-spacing:.06em}
+html[lang="en"] .zhname,html[lang="fr"] .zhname{letter-spacing:.18em;padding-left:.18em;font-family:"Jost",sans-serif;font-weight:500}
+html[lang="en"] .t,html[lang="fr"] .t{letter-spacing:0}
+html[lang="en"] body,html[lang="fr"] body{font-family:"Noto Serif TC",Georgia,serif}
+html[lang="en"] nav.main a,html[lang="fr"] nav.main a{letter-spacing:.06em}
 /* 手機選單：六個項目一次全部看得到，不用橫向滑動 */
 @media(max-width:699px){
  nav.main .in{padding:0 4px;gap:0;justify-content:space-between}
  nav.main a{flex:1 1 auto;text-align:center;padding:13px 1px;font-size:14px;letter-spacing:.04em}
- html[lang="en"] nav.main a{font-family:"Jost",sans-serif;font-weight:500;font-size:13px;letter-spacing:0}
+ html[lang="en"] nav.main a,html[lang="fr"] nav.main a{font-family:"Jost",sans-serif;font-weight:500;font-size:13px;letter-spacing:0}
 }
-@media(max-width:370px){nav.main a{font-size:13px;letter-spacing:0}html[lang="en"] nav.main a{font-size:12px}}
+@media(max-width:370px){nav.main a{font-size:13px;letter-spacing:0}html[lang="en"] nav.main a,html[lang="fr"] nav.main a{font-size:12px}}
