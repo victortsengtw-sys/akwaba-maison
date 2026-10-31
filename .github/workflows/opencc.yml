@@ -1,0 +1,22 @@
+name: Convert to Simplified (tooling)
+on:
+  push:
+    branches: [tools-opencc]
+    paths: [tools/hant.json]
+permissions:
+  contents: write
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm i --no-save opencc-js@1.0.5
+      - run: node tools/convert.js
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add tools/hans.json
+          git commit -m "Convert tools/hant.json to Simplified" || echo nothing
+          git push
