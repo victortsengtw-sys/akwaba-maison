@@ -140,7 +140,8 @@ article p{margin:0 0 16px}
 .sym .ck{font-size:14px;line-height:1.75;margin-top:8px;padding:8px 12px;background:var(--foT);border-left:3px solid var(--fo)}
 .sym .ck b{color:var(--fo)}
 /* footer, overlay */
-footer{border-top:3px solid var(--ink);margin-top:40px;padding:30px 0 50px;text-align:center;font-size:13px;color:var(--muted);line-height:2}
+.xgame{background:#141414;color:#F7F3EC;margin-top:48px;padding:34px 0;text-align:center}.xgame .xk{font-family:Jost,sans-serif;font-weight:600;font-size:12px;letter-spacing:.3em;color:#C9A34E;text-transform:uppercase}.xgame p{margin:12px auto 18px;max-width:520px;font-size:15px;line-height:1.7}.xgame .xb{display:inline-block;border:1px solid #C9A34E;color:#F7F3EC;padding:10px 26px;font-family:Jost,sans-serif;font-weight:600;font-size:13px;letter-spacing:.16em;text-decoration:none}.xgame .xb:hover{background:#C9A34E;color:#141414}
+footer{border-top:3px solid var(--ink);margin-top:0;padding:30px 0 50px;text-align:center;font-size:13px;color:var(--muted);line-height:2}
 footer a{text-decoration:none;border-bottom:1px solid currentColor}
 .drv{position:fixed;inset:0;z-index:70;background:var(--bg);display:none;flex-direction:column;justify-content:center;padding:28px;text-align:center}
 .drv.on{display:flex}
