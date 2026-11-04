@@ -2,7 +2,7 @@
 
 用故事讀懂象牙海岸（科特迪瓦）的藝術、文化與生活。響應式靜態網站，手機、平板、電腦都能看。
 
-- 正式網址：https://victortsengtw-sys.github.io/akwaba-maison/
+- 正式網址：https://maison.victseng.com/
 - 簡體版：網址加上 `/zh-hans/`（自動轉換，並使用大陸的地名叫法）
 
 ## 內容放在哪裡
